@@ -1,0 +1,32 @@
+.. title: Fatiando a Terra
+.. date: 2013/02/14 19:21:32
+.. slug: index
+
+
+.. image:: logo.png
+    :align: right
+
+Fatiando a Terra (Portuguese for *Slicing the Earth*)
+is an **open-source** toolkit
+for geophysical modeling and inversion.
+
+In a wider scope,
+we also aim
+to be an open repository
+for geophysics.
+
+We provide a home for:
+
+* Open-source software
+* Lecture notes and exercises (free under Creative Commons licenses)
+* A blog for discussion of ideas, recent publications, programming, etc
+
+
+What we have so far
+===============================
+
+The *Fatiando a Terra* software package
+is under development
+on `GitHub <https://github.com/leouieda/fatiando>`_.
+
+

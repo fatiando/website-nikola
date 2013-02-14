@@ -1,5 +1,8 @@
 *.py[cod]
 
+# Nikola stuff
+.doit.db
+
 # C extensions
 *.so
 
