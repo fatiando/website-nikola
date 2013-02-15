@@ -1,0 +1,13 @@
+.. title: Software projects
+.. date: 2013/02/14 19:21:32
+.. slug: index
+
+These are the software projects that are part of Fatiando a Terra:
+
+* `Fatiando a Terra <https://github.com/leouieda/fatiando>`_: 
+  A `Python <http://python.org>`_ package for geophysical modeling and 
+  inversion. Contains various algorithms and facilities for developing inverse
+  problems.
+* `Tesseroids <https://leouieda.github.com/tesseroids>`_: Commandline tools for
+  forward modeling of gravitational fields in spherical coordinates.
+

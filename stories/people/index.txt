@@ -1,0 +1,8 @@
+.. title: People
+.. date: 2013/02/14 19:21:32
+.. slug: index
+
+
+These are the people involved in Fatiando a Terra:
+
+* `Leonardo Uieda <uieda/index.html>`_

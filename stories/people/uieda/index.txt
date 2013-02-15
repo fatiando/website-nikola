@@ -3,8 +3,6 @@
 .. slug: index
 
 
-Me!
-
 .. raw:: html
 
     <iframe style="padding-left: 20px;" 
@@ -17,13 +15,8 @@ Publications
 ============
 
 See my `Mendeley profile`_
-Mendeley profile</a> for the full text pdfs and my `figshare profile`_ 
+Mendeley profile for the full text pdfs and my `figshare profile`_ 
 for additional for videos, posters, etc.
-
-
-
-.. _Mendeley profile: http://www.mendeley.com/profiles/leonardo-uieda/
-.. _figshare profile: http://figshare.com/authors/Leonardo%20Uieda/97471
 
 .. raw:: html
 
@@ -31,3 +24,8 @@ for additional for videos, posters, etc.
         src="http://www.mendeley.com/profiles/leonardo-uieda/widget/32/2703216930/80e033b660fae91481430385fd30d4bf0a685dfb/" 
         height="240" width="320" frameborder="0">
     </iframe>
+
+
+
+.. _Mendeley profile: http://www.mendeley.com/profiles/leonardo-uieda/
+.. _figshare profile: http://figshare.com/authors/Leonardo%20Uieda/97471

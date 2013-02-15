@@ -51,13 +51,13 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 SIDEBAR_LINKS = {
     DEFAULT_LANG: (
-        ('/software.html', 'Software'),
-        ('/content.html', 'Content'),
+        ('/software/index.html', 'Software'),
+        ('/content/index.html', 'Content'),
         ('/people/index.html', 'People'),
         ('/blog/index.html', 'Blog'),
         ('/archive.html', 'Archive'),
         ('/categories/index.html', 'Tags'),
-        ('/rss.xml', '<img src="logo/rss.png">'),
+        ('/rss.xml', '<img src="/logo/rss.png">'),
     ),
 }
 
@@ -88,13 +88,13 @@ SIDEBAR_LINKS = {
 # rss feeds.
 #
 
-#post_pages = (
-#    ("posts/.ipynb", "posts", "post.tmpl", True),
-#    ("stories/.ipynb", "stories", "story.tmpl", False),
-#)
 post_pages = (
+    #("posts/*.ipynb", "posts", "post.tmpl", True),
+    #("stories/*.ipynb", ".", "story.tmpl", False),
     ("posts/*.txt", "posts", "post.tmpl", True),
+    ("posts/*.html", "posts", "post.tmpl", True),
     ("stories/*.txt", ".",  "story.tmpl", False),
+    ("stories/*.html", ".",  "story.tmpl", False),
 )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -232,16 +232,16 @@ FAVICONS = {
 }
 
 # Show only teasers in the index pages? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # A HTML fragment describing the license, for the sidebar. Default is "".
 # I recommend using the Creative Commons' wizard:
 # http://creativecommons.org/choose/
-# LICENSE = """
-# <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/">
-# <img alt="Creative Commons License BY-NC-SA"
-# style="border-width:0; margin-bottom:12px;"
-# src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
+#LICENSE = """
+#<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/">
+#<img alt="Creative Commons License BY-NC-SA"
+#style="border-width:0; margin-bottom:12px;"
+#src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
@@ -265,7 +265,7 @@ DISQUS_FORUM = "fatiando"
 
 # Enable Addthis social buttons?
 # Defaults to true
-# ADD_THIS_BUTTONS = True
+ADD_THIS_BUTTONS = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
@@ -296,7 +296,7 @@ SEARCH_FORM = """
 <input type="hidden" name="k9" value="#D51920"/>
 <input type="hidden" name="kt" value="h"/>
 <input type="text" name="q" maxlength="255"
- placeholder="Search&hellip;" class="span2" style="margin-top: 4px;"/>
+ placeholder="Search this site&hellip;" class="span2" style="margin-top: 4px;"/>
 <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
 </form>
 <!-- End of custom search -->
