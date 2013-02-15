@@ -57,7 +57,7 @@ SIDEBAR_LINKS = {
         ('/archive.html', 'Archive'),
         ('/contact/index.html', 'Contact'),
         ('https://github.com/leouieda/fatiando', 
-         '<img src="/logo/github.png" style="margin-left:-10px;">'),
+         '<img src="/logo/github.png" style="margin-left:0px;">'),
         ('https://plus.google.com/109453117826543450682', 
          '<img src="/logo/gplus.png" style="margin-left:-20px;">'),
         ('/rss.xml', 
