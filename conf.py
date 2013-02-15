@@ -56,9 +56,13 @@ SIDEBAR_LINKS = {
         ('/people/index.html', 'People'),
         ('/blog/index.html', 'Blog'),
         ('/archive.html', 'Archive'),
-        ('/categories/index.html', 'Tags'),
         ('/contact/index.html', 'Contact'),
-        ('/rss.xml', '<img src="/logo/rss.png">'),
+        ('https://github.com/leouieda/fatiando', 
+         '<img src="/logo/github.png" style="margin-left:-10px;">'),
+        ('https://plus.google.com/109453117826543450682', 
+         '<img src="/logo/gplus.png" style="margin-left:-20px;">'),
+        ('/rss.xml', 
+         '<img src="/logo/rss.png" style="margin-left:-20px;margin-right:-30px;">'),
     ),
 }
 
