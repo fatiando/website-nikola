@@ -1,9 +1,0 @@
-.. title: Lecture notes, slides, texts
-.. date: 2013/02/14 19:21:32
-.. slug: index
-
-Other content that found a home here:
-
-* `Inverse problems in geophysics <https://github.com/leouieda/inverse-problems>`_:
-  Lecture notes, slides and exercises about practical inverse problems in 
-  geophysics. Uses software Fatiando a Terra for the exercises.

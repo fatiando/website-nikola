@@ -51,8 +51,7 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 SIDEBAR_LINKS = {
     DEFAULT_LANG: (
-        ('/software/index.html', 'Software'),
-        ('/content/index.html', 'Content'),
+        ('/projects/index.html', 'Projects'),
         ('/people/index.html', 'People'),
         ('/blog/index.html', 'Blog'),
         ('/archive.html', 'Archive'),
