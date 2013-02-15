@@ -97,8 +97,8 @@ post_pages = (
     #("stories/*.ipynb", ".", "story.tmpl", False),
     ("posts/*.txt", "posts", "post.tmpl", True),
     ("posts/*.html", "posts", "post.tmpl", True),
-    ("stories/*.txt", ".",  "story.tmpl", False),
-    ("stories/*.html", ".",  "story.tmpl", False),
+    ("pages/*.txt", ".",  "story.tmpl", False),
+    ("pages/*.html", ".",  "story.tmpl", False),
 )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -249,7 +249,7 @@ INDEX_TEASERS = True
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = '<br>Contents &copy; {date} <a href="/people/uieda/index.html">{author}</a> - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a> <br>  Except where otherwise noted, all content is avilable under a <a href="http://creativecommons.org/licenses/by/3.0/legalcode">CC-BY license</a>. <br><a href="http://creativecommons.org/licenses/by/3.0/legalcode"><img src="/logo/cc-by.jpg" width="90px" style="padding-top:5px"></a>' 
+CONTENT_FOOTER = '<p style="padding-top:50px">Contents &copy; {date} <a href="/people/uieda/index.html">{author}</a> - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a> <br>  Except where otherwise noted, all content is avilable under a <a href="http://creativecommons.org/licenses/by/3.0/legalcode">CC-BY license</a>. <br><a href="http://creativecommons.org/licenses/by/3.0/legalcode"><img src="/logo/cc-by.jpg" width="90px" style="padding-top:5px"></a></p>' 
 CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
                                        date=time.gmtime().tm_year)
