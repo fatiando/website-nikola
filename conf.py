@@ -57,6 +57,7 @@ SIDEBAR_LINKS = {
         ('/blog/index.html', 'Blog'),
         ('/archive.html', 'Archive'),
         ('/categories/index.html', 'Tags'),
+        ('/contact/index.html', 'Contact'),
         ('/rss.xml', '<img src="/logo/rss.png">'),
     ),
 }

@@ -1,0 +1,13 @@
+.. title: Contact
+.. date: 2013/02/14 19:21:32
+.. slug: index
+
+Get in touch:
+
+* **Write** to the `mailing list
+  <https://groups.google.com/forum/?hl=en&fromgroups#!forum/fatiando>`_
+* **Comment** on `the blog <../blog/index.html>`_
+* **Post** a message on Google+ and mention 
+  "`+Fatiando a Terra <https://plus.google.com/109453117826543450682>`_" 
+  somewhere in your post
+* As a **last option**, e-mail `Leonardo Uieda <../people/uieda/index.html>`_
