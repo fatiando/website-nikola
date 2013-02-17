@@ -1,0 +1,52 @@
+.. title: Vanderlei Coelho Oliveira Jr.
+.. date: 2013/02/14 19:21:32
+.. slug: index
+
+Geophysicist, 
+PhD candidate at `Observatório Nacional`_, Brazil
+
+**e-mail**: vandscoelho@gmail.com
+
+**also find me at:**
+
+* `Google Scholar <http://scholar.google.com.br/citations?user=TQbQ4TcAAAAJ>`_
+* `Plataforma Lattes <http://lattes.cnpq.br/4332841435949533>`_
+
+Research
+========
+
+I am mainly interested in Potential Fields, 
+Inverse Problems and Numerical Methods.
+
+Education
+=========
+
+After completing my undergraduate degree in Geophysics at the 
+`Instituto de Astronomia, Geofísica e Ciências Atmosféricas da Universidade de São Paulo (IAG-USP) <http://www.iag.usp.br>`_, 
+I did a master's degree in Geophysics at 
+`Observatório Nacional`_
+(`thesis – in portuguese <http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/GEOFISICA/[262_36-45_C]vanderlei_dissertacao.pdf>`_),
+where I am currently a PhD candidate in Geophysics.
+
+.. _Observatório Nacional: http://www.on.br
+
+Publications
+============
+
+* Oliveira Jr., V. C., V. C. F. Barbosa, and J. B. C. Silva, 2011, 
+  Source geometry estimation using the mass excess criterion to constrain 3-D 
+  radial inversion of gravity data: Geophysical Journal International, 187 (2),
+  754-772. doi:10.1111/j.1365-246X.2011.05172.x 
+  [`abstract <http://onlinelibrary.wiley.com/doi/10.1111/j.1365-246X.2011.05172.x/full>`__]
+  [`electronic pdf version <http://fatiando.org/usr/vanderlei/j.1365-246X.2011.05172.x.pdf>`__]
+  [`definitive version <http://onlinelibrary.wiley.com/doi/10.1111/j.1365-246X.2011.05172.x/full>`__]
+
+* Oliveira Jr., V. C., Barbosa, V. C. F., and `Uieda, L.`_ (2013). 
+  Polynomial equivalent layer. *GEOPHYSICS*, 78(1), G1-G13. 
+  doi: 10.1190/geo2012-0196.1 
+  [`electronic pdf version <http://www.mendeley.com/download/public/1406731/5105763591/962190c0ce469dd11ff3f1bf2f77960abb1c1991/dl.pdf>`__]
+  [`definitive version <http://dx.doi.org/10.1190/geo2012-0196.1>`__]
+
+
+
+.. _Uieda, L.: ../uieda/index.html
