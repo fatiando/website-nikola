@@ -57,11 +57,17 @@ SIDEBAR_LINKS = {
         ('/archive.html', 'Archive'),
         ('/contact/index.html', 'Contact'),
         ('https://github.com/leouieda/fatiando', 
-         '<img src="/logo/github.png" style="margin-left:0px;">'),
+         '<img src="/logo/github.png">'),
         ('https://plus.google.com/109453117826543450682', 
-         '<img src="/logo/gplus.png" style="margin-left:-20px;">'),
+         '<img src="/logo/gplus.png">'),
         ('/rss.xml', 
-         '<img src="/logo/rss.png" style="margin-left:-20px;margin-right:-30px;">'),
+         '<img src="/logo/rss.png">'),
+        #('https://github.com/leouieda/fatiando', 
+        # '<img src="/logo/github.png" style="margin-left:0px;">'),
+        #('https://plus.google.com/109453117826543450682', 
+        # '<img src="/logo/gplus.png" style="margin-left:-20px;">'),
+        #('/rss.xml', 
+        # '<img src="/logo/rss.png" style="margin-left:-20px;margin-right:-30px;">'),
     ),
 }
 
@@ -291,20 +297,20 @@ RSS_TEASERS = False
 #
 # This search form works for any site and looks good in the "site" theme where it
 # appears on the navigation bar
-SEARCH_FORM = """
-<!-- Custom search -->
-<form method="get" id="search" action="http://duckduckgo.com/"
- class="navbar-form pull-left">
-<input type="hidden" name="sites" value="%s"/>
-<input type="hidden" name="k8" value="#444444"/>
-<input type="hidden" name="k9" value="#D51920"/>
-<input type="hidden" name="kt" value="h"/>
-<input type="text" name="q" maxlength="255"
- placeholder="Search this site&hellip;" class="span2" style="margin-top: 4px;"/>
-<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
-</form>
-<!-- End of custom search -->
-""" % BLOG_URL
+#SEARCH_FORM = """
+#<!-- Custom search -->
+#<form method="get" id="search" action="http://duckduckgo.com/"
+# class="navbar-form pull-left">
+#<input type="hidden" name="sites" value="%s"/>
+#<input type="hidden" name="k8" value="#444444"/>
+#<input type="hidden" name="k9" value="#D51920"/>
+#<input type="hidden" name="kt" value="h"/>
+#<input type="text" name="q" maxlength="255"
+# placeholder="Search this site&hellip;" class="span2" style="margin-top: 4px;"/>
+#<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+#</form>
+#<!-- End of custom search -->
+#""" % BLOG_URL
 
 # Also, there is a local search plugin you can use.
 
