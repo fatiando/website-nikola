@@ -1,0 +1,82 @@
+.. title: Tópicos de inversão em geofísica - USP - 2012
+.. date: 2013/02/14 19:21:32
+.. slug: topicos-de-inversao-em-geofisica-usp2012
+
+
+.. raw:: html
+
+    <div style="margin-top:40px"></div>
+    <img src="../../images/topicos-inversao-geoficia-usp2012.jpg"
+     title="Cartaz do curso" style="float:right; margin-bottom:20px">
+
+Curso ministrado no `IAG-USP`_ por
+`Vanderlei Coelho Oliveira Jr.`_ e `Leonardo Uieda`_
+em Fevereiro de 2012.
+
+.. _IAG-USP: http://www.iag.usp.br
+.. _Vanderlei Coelho Oliveira Jr.: ../../people/oliveira-jr/index.html
+.. _Leonardo Uieda: ../../people/uieda/index.html
+
+Material
+========
+
+O material utilizado no curso foi desenvolvido em código aberto e
+`está disponível aqui`_.
+Este material pode ter sido atualizado desde o curso.
+Para baixar a versão da apostila, slides, práticas e
+software `Fatiando a Terra`_
+utilizados no curso, baixe:
+
+* `Apostila <http://inverse-problems.googlecode.com/files/apostila-v1.0.1.pdf>`_
+* `Slides <http://inverse-problems.googlecode.com/files/course-usp-2012-slides.zip>`_
+* `Atividades práticas <http://inverse-problems.googlecode.com/files/course-usp-2012-praticas.zip>`_
+
+.. _está disponível aqui: https://github.com/leouieda/inverse-problems
+.. _Fatiando a Terra: https://github.com/leouieda/fatiando
+
+Instalando o Fatiando a Terra
+=============================
+
+Windows
++++++++
+
+No momento instalação no Windows está, digamos, antipática.
+`Entre em contato conosco`_ para receber instruções e ajuda sobre
+como realizar essa façanha.
+
+.. _Entre em contato conosco: ../../contact/index.html
+
+Linux
++++++
+
+A maioria das distribuições de GNU/Linux já vem com Python 2.7 instalado.
+Em seguida, instale as seguintes bibliotecas utilizando seu gerenciador
+de pacotes (Synaptic, Ubuntu Software Center, etc):
+
+* python-numpy
+* python-scipy
+* python-matplotlib
+* python-imaging
+* python-pip
+* python-dev
+
+`Baixe o Fatiando a Terra`_ em formato ``.tar.gz``.
+Em seguida digite no terminal:
+
+.. code::
+
+    sudo pip install fatiando-0.0.1.tar.gz
+
+Para testar a instalação,
+rode um dos exercícios práticos (arquivos ``.py``) no terminal:
+
+.. code::
+
+    python exercicio1.py
+
+Todos os exercícios práticos
+devem abrir uma janela com um gráfico.
+Se isto não acontecer, `entre em contato`_.
+
+.. _Baixe o Fatiando a Terra: http://fatiando.googlecode.com/files/fatiando-0.0.1.tar.gz
+.. _entre em contato: ../../contact/index.html
