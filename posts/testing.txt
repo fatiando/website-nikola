@@ -1,9 +1,20 @@
-.. title: Testing
-.. slug: testing
-.. date: 2013/02/14 19:21:32
-.. tags: 
+.. title: Example of creating a post through GitHub.com
+.. slug: example-post-from-github.com
+.. date: 2013/02/19 16:21:32
+.. tags: examples
 .. link: 
 .. description: 
 
+This post was created 
+from the github.com website 
+using the pull request system.
 
-Write your post here.
+Latex equations 
+are rendered by `MathJax <http://www.mathjax.org/>`_
+and can be inserted like so:
+
+.. math::
+    
+    (\lambda + \mu)\nabla(\nabla\cdot\mathbf{u}) + \mu\nabla^2\mathbf{u} - \rho \partial_t^2 \mathbf{u} = - \mathbf{f}
+
+or inline like :math:`\mathbf{u} = (u_x, u_y, y_z)`.
