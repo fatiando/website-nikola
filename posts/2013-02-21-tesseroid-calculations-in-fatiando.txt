@@ -1,0 +1,98 @@
+.. title: Tesseroid calculations in Fatiando
+.. slug: 2013-02-21-tesseroid-calculations-in-fatiando
+.. date: 2013/02/21 14:36:43
+.. tags: tesseroids, development, fatiando
+.. link: 
+.. description: 
+
+.. raw:: html
+    
+    <img src="/logo/tesseroids-highres.png" 
+        style="float:left; 
+        padding-right:10px">
+
+One of the open-source software projects
+I have been working on
+is called `Tesseroids <http://leouieda.github.com/tesseroids>`_.
+
+It is a collection of C programs
+that calculate the gravitational fields
+(e.g., gravitational potential, gravity anomaly, gradient tensor)
+of a 
+`tesseroid 
+<http://tesseroids.readthedocs.org/en/latest/theory.html#what-is-a-tesseroid-anyway>`_.
+This is all done in spherical coordinates
+and can be used to model large regions
+where one would like
+to take the Earth's curvature
+into consideration.
+
+.. image:: http://tesseroids.readthedocs.org/en/latest/_images/tesseroid.png
+    :width: 300px
+    :align: center
+
+
+I'm proud of this software
+because it was my first 
+real programming project.
+I've been working on it
+since my 
+`undergrad years 
+<http://www.mendeley.com/research/c%C3%A1lculo-tensor-gradiente-gravim%C3%A9trico-utilizando-tesser%C3%B3ides/>`_
+and it has gone through 
+several refactorings.
+The main problem with it, though,
+is that it is written in C.
+So it is very time consuming and tedious
+to add new features to it.
+One of the things that has been
+on my TODO list for quite some time
+is exporting to `VTK <http://www.vtk.org/>`_.
+This would enable 3D plotting with
+`Paraview <http://www.paraview.org/>`_
+or `Mayavi <http://code.enthought.com/projects/mayavi/>`_.
+Another is adding parallel computations,
+which would be a pain to do in a portable way in C.
+But I never got around to actually start any of this.
+Specially with my PhD in the way
+and the much more pleasent experience
+of programming in `Python <http://www.python.org/>`_ on
+`Fatiando a Terra <https://github.com/leouieda/fatiando>`_.
+
+So last week I finally got around
+to implementing tesseroid calculations and 3D plotting
+on Fatiando! 
+You can check out the source code on the 
+`devel branch on GitHub <https://github.com/leouieda/fatiando/tree/devel>`_.
+Here is a little taste 
+of a 2 tesseroid model
+and the resulting gravitational fields:
+
+.. image:: /images/added-tesseroids-fatiando-example-tesseroid.png
+
+.. image:: /images/added-tesseroids-fatiando-example-tesseroid-grav.png
+    :width: 400px
+
+There are 2 scripts on the 
+`cookbook <https://github.com/leouieda/fatiando/tree/devel/cookbook>`_
+that demonstrate the usage.
+One even shows how to split a large model
+and calculate in parallel using the
+`multiprocessing <http://docs.python.org/2/library/multiprocessing.html>`_
+package.
+
+.. raw:: html
+    
+    <script src="https://gist.github.com/leouieda/5006822.js"></script>
+
+This script generates a 40000 tesseroid model
+of the crust,
+plots it in Mayavi,
+calculates the gravity anomaly
+and plots that using a 
+`orthographic projection <http://matplotlib.org/basemap/users/ortho.html>`_
+(using the `matplotlib <http://matplotlib.org/>`_
+`Basemap toolkit <http://matplotlib.org/basemap/>`_).
+
+It's that easy!
+

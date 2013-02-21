@@ -216,12 +216,12 @@ INDEX_PATH = "blog"
 # #############################################################################
 
 # Data about post-per-page indexes
-# INDEXES_TITLE = ""  # If this is empty, the default is BLOG_TITLE
+INDEXES_TITLE = "Blog"  # If this is empty, the default is BLOG_TITLE
 # INDEXES_PAGES = ""  # If this is empty, the default is 'old posts page %d' translated
 
 # Name of the theme to use. Themes are located in themes/theme_name
 #THEME = 'site-ipython'
-THEME = 'site'
+THEME = 'fatiando'
 
 # date format used to display post dates. (str used by datetime.datetime.strftime)
 # DATE_FORMAT = '%Y-%m-%d %H:%M'
@@ -232,7 +232,6 @@ THEME = 'site'
 # about favicons, see: http://www.netmagazine.com/features/create-perfect-favicon
 FAVICONS = {
      ("icon", "/favicon.ico", "32x32"),
-#     ("icon", "/icon_128x128.png", "128x128"),
 }
 
 # Show only teasers in the index pages? Defaults to False.
