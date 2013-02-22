@@ -51,6 +51,7 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 SIDEBAR_LINKS = {
     DEFAULT_LANG: (
+        ('http://fatiando.readthedocs.org', 'Documentation'),
         ('/projects/index.html', 'Projects'),
         ('/people/index.html', 'People'),
         ('/blog/index.html', 'Blog'),
