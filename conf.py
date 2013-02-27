@@ -96,8 +96,8 @@ SIDEBAR_LINKS = {
 post_pages = (
     #("posts/*.ipynb", "posts", "post.tmpl", True),
     #("stories/*.ipynb", ".", "story.tmpl", False),
-    ("posts/*.txt", "posts", "post.tmpl", True),
-    ("posts/*.html", "posts", "post.tmpl", True),
+    ("posts/*.txt", "blog", "post.tmpl", True),
+    ("posts/*.html", "blog", "post.tmpl", True),
     ("pages/*.txt", ".",  "story.tmpl", False),
     ("pages/*.html", ".",  "story.tmpl", False),
 )
