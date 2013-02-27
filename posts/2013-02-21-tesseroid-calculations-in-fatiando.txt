@@ -96,3 +96,7 @@ and plots that using a
 
 It's that easy!
 
+---
+
+`Leonardo Uieda <../people/uieda/index.html>`_
+
