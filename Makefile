@@ -1,9 +1,7 @@
 build:
 	nikola build
 
-serve:
-	#firefox http://localhost:8000/
-	#nikola serve
+show:
 	firefox output/index.html
 
 clean:
