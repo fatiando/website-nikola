@@ -51,12 +51,13 @@ TRANSLATIONS = {
 # You should provide a key-value pair for each used language.
 SIDEBAR_LINKS = {
     DEFAULT_LANG: (
-        ('http://fatiando.readthedocs.org', 'Documentation'),
-        ('/projects/index.html', 'Projects'),
-        ('/people/index.html', 'People'),
-        ('/blog/index.html', 'Blog'),
-        ('/archive.html', 'Archive'),
-        ('/contact/index.html', 'Contact'),
+        ('/blog', 'Blog'),
+        ('http://fatiando.readthedocs.org', 'Docs'),
+        ('/projects', 'Projects'),
+        ('/people', 'People'),
+        ('/contact', 'Contact'),
+        #('/archive.html', 'Archive'),
+        # Icons
         ('https://github.com/leouieda/fatiando', 
          '<img src="/logo/github.png" title="Source code on GitHub">'),
         ('https://plus.google.com/109453117826543450682', 
