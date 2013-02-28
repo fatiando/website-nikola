@@ -38,7 +38,7 @@ Publications
   radial inversion of gravity data: Geophysical Journal International, 187 (2),
   754-772. doi:10.1111/j.1365-246X.2011.05172.x 
   [`abstract <http://onlinelibrary.wiley.com/doi/10.1111/j.1365-246X.2011.05172.x/full>`__]
-  [`electronic pdf version <http://fatiando.org/usr/vanderlei/j.1365-246X.2011.05172.x.pdf>`__]
+  [`electronic pdf version </papers/Oliveira Jr, Barbosa, Silva_2011.pdf>`__]
   [`definitive version <http://onlinelibrary.wiley.com/doi/10.1111/j.1365-246X.2011.05172.x/full>`__]
 
 * Oliveira Jr., V. C., Barbosa, V. C. F., and `Uieda, L.`_ (2013). 
