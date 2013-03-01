@@ -1,5 +1,6 @@
 build:
 	nikola build
+	cp .htaccess output/
 
 show:
 	firefox output/index.html
