@@ -7,7 +7,7 @@
 
 .. raw:: html
 
-    <h1><img src="site-header-logo.png" style="margin-bottom:30px"></h1>
+    <h1><img src="site-header-logo.png"></h1>
 
 Fatiando a Terra (Portuguese for *Slicing the Earth*)
 is an open-source `Python <http://www.python.org>`_ toolkit
