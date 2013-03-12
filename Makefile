@@ -2,6 +2,10 @@ build:
 	nikola build
 	cp .htaccess output/
 
+serve:
+	firefox http://127.0.0.1:8000 &
+	nikola serve
+
 show:
 	firefox output/index.html
 
