@@ -58,11 +58,11 @@ SIDEBAR_LINKS = {
         ('/contact', 'Contact'),
         #('/archive.html', 'Archive'),
         # Icons
-        ('https://github.com/leouieda/fatiando', 
+        ('https://github.com/leouieda/fatiando',
          '<img src="/logo/github.png" title="Source code on GitHub">'),
-        ('https://plus.google.com/109453117826543450682', 
+        ('https://plus.google.com/109453117826543450682',
          '<img src="/logo/gplus.png" title="Our Google+ page">'),
-        ('/rss.xml', 
+        ('/rss.xml',
          '<img src="/logo/rss.png" title="RSS feed">'),
     ),
 }
@@ -101,6 +101,7 @@ post_pages = (
     ("posts/*.html", "blog", "post.tmpl", True),
     ("pages/*.txt", ".",  "story.tmpl", False),
     ("pages/*.html", ".",  "story.tmpl", False),
+    ("pages/frontpage.txt", ".",  "frontpage.tmpl", False),
 )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -222,7 +223,7 @@ INDEXES_TITLE = "Blog"  # If this is empty, the default is BLOG_TITLE
 # INDEXES_PAGES = ""  # If this is empty, the default is 'old posts page %d' translated
 
 # Name of the theme to use. Themes are located in themes/theme_name
-#THEME = 'site-ipython'
+#THEME = 'site-reveal'
 THEME = 'fatiando'
 
 # date format used to display post dates. (str used by datetime.datetime.strftime)
@@ -250,7 +251,7 @@ INDEX_TEASERS = True
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = '<p style="padding-top:50px">Contents &copy; {date} <a href="/people/uieda/index.html">{author}</a> - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a> <br>  Except where otherwise noted, all content is avilable under a <a href="http://creativecommons.org/licenses/by/3.0/legalcode">CC-BY license</a>. <br><a href="http://creativecommons.org/licenses/by/3.0/legalcode"><img src="/logo/cc-by.jpg" width="90px" style="padding-top:5px"></a></p>' 
+CONTENT_FOOTER = '<p style="padding-top:50px">Contents &copy; {date} <a href="/people/uieda/index.html">{author}</a> - Powered by <a href="http://nikola.ralsina.com.ar">Nikola</a> <br>  Except where otherwise noted, all content is avilable under a <a href="http://creativecommons.org/licenses/by/3.0/legalcode">CC-BY license</a>. <br><a href="http://creativecommons.org/licenses/by/3.0/legalcode"><img src="/logo/cc-by.jpg" width="90px" style="padding-top:5px"></a></p>'
 CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
                                        date=time.gmtime().tm_year)

@@ -1,4 +1,4 @@
-.. title: People
+.. title: People involved
 .. date: 2013/02/14 19:21:32
 .. slug: index
 

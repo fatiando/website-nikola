@@ -2,10 +2,7 @@
 <%inherit file="post.tmpl"/>
 <%namespace name="disqus" file="disqus_helper.tmpl"/>
 <%block name="content">
-%if title:
-    <h1>${title}</h1>
-%endif
-    ${post.text()}
+${post.text()}
 %if enable_comments and not post.meta[lang]['nocomments']:
         ${disqus.html_disqus(post.permalink(absolute=True), post.title(), post.base_path)}
 %endif

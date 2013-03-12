@@ -1,0 +1,74 @@
+.. title: Overview
+.. slug: index
+.. date: 2013/02/15 13:40:32
+.. tags: 
+.. link: 
+.. description: 
+
+.. raw:: html
+
+    <h1><img src="site-header-logo.png" style="margin-bottom:30px"></h1>
+
+Fatiando a Terra (Portuguese for *Slicing the Earth*)
+is an open-source `Python <http://www.python.org>`_ toolkit
+for **geophysical modeling and inversion**. 
+
+Fatiando provides:
+
+* A way to **integrate geophysical modeling**: functions operate on a common 
+  data and model format so that different methods can be interchanged and linked 
+  together
+* Easily **prototyping inversion** methods using the `fatiando.inversion 
+  <http://fatiando.readthedocs.org/en/latest/api/inversion.html>`_ package
+  of inverse problem solvers
+* A range of **toy problems** to help teach modeling and inverse problem
+  concepts
+* Easy **plotting** with `matplotlib <http://matplotlib.org/>`_ and 
+  3D plotting with `Mayavi <http://code.enthought.com/projects/mayavi/>`_
+* **Fast** routines, courtesy of `Numpy <http://www.numpy.org/>`_
+  and `Cython <http://www.cython.org/>`_
+* A free (as in beer) and **open-source** alternative
+  to commercial software
+
+Check out a list of 
+`related projects <projects>`_ like:
+**open-source** software,
+**lecture notes** and exercises (free under Creative Commons licenses),
+and **courses** taught using our material.
+
+.. raw:: html
+
+    <div style="margin-top:20px; margin-bottom:20px">
+        <iframe width="300" height="200" 
+         src="https://www.youtube.com/embed/YjhSvEpbzps" 
+         frameborder="0" allowfullscreen>
+        </iframe>
+        <iframe width="300" height="200" 
+         src="http://www.youtube.com/embed/Mvd8FANLqy4" 
+         frameborder="0" allowfullscreen>
+        </iframe>
+    </div>
+
+.. raw:: html
+    
+    <h2>Development</h2>
+
+*Fatiando a Terra* is under development
+on **GitHub**!
+Check out the 
+`source code <https://github.com/leouieda/fatiando>`_ and
+`documentation <http://fatiando.readthedocs.org>`_.
+You can also take at the
+`cookbook <http://fatiando.readthedocs.org/en/latest/cookbook.html>`_
+to see some examples
+of what Fatiando can already do!
+
+.. raw:: html
+    
+    <h2>Getting help and contributing</h2>
+
+If you need any help or want to contribute,
+`get in touch <contact>`_!
+We welcome any feed back and interest.
+
+

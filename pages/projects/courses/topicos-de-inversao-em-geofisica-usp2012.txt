@@ -2,12 +2,12 @@
 .. date: 2013/02/14 19:21:32
 .. slug: topicos-de-inversao-em-geofisica-usp2012
 
-
 .. raw:: html
 
-    <div style="margin-top:40px"></div>
-    <img src="../../images/topicos-inversao-geoficia-usp2012.jpg"
-     title="Cartaz do curso" style="float:right; margin-bottom:20px">
+    <div style="margin-top:40px">
+        <img src="../../images/topicos-inversao-geoficia-usp2012.jpg"
+         title="Cartaz do curso" style="float:right; margin-bottom:20px">
+    </div>
 
 Curso ministrado no `IAG-USP`_ por
 `Vanderlei Coelho Oliveira Jr.`_ e `Leonardo Uieda`_
