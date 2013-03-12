@@ -8,4 +8,4 @@
 * **Post** a message on Google+ and mention 
   "`+Fatiando a Terra <https://plus.google.com/109453117826543450682>`_" 
   somewhere in your post
-* As a **last option**, e-mail `Leonardo Uieda <../people/uieda/index.html>`_
+* As a **last option**, e-mail `Leonardo Uieda </people/uieda>`_

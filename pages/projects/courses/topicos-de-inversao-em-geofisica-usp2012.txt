@@ -14,8 +14,8 @@ Curso ministrado no `IAG-USP`_ por
 em Fevereiro de 2012.
 
 .. _IAG-USP: http://www.iag.usp.br
-.. _Vanderlei Coelho Oliveira Jr.: ../../people/oliveira-jr/index.html
-.. _Leonardo Uieda: ../../people/uieda/index.html
+.. _Vanderlei Coelho Oliveira Jr.: /people/oliveira-jr
+.. _Leonardo Uieda: /people/uieda
 
 Material
 ========
@@ -44,7 +44,7 @@ No momento instalação no Windows está, digamos, antipática.
 `Entre em contato conosco`_ para receber instruções e ajuda sobre
 como realizar essa façanha.
 
-.. _Entre em contato conosco: ../../contact/index.html
+.. _Entre em contato conosco: /contact
 
 Linux
 +++++
@@ -60,7 +60,7 @@ de pacotes (Synaptic, Ubuntu Software Center, etc):
 * python-pip
 * python-dev
 
-`Baixe o Fatiando a Terra`_ em formato ``.tar.gz``.
+`Baixe o Fatiando a Terra`_ versão 0.0.1 em formato ``.tar.gz``.
 Em seguida digite no terminal:
 
 .. code::

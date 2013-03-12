@@ -5,8 +5,8 @@
 
 These are the people involved in Fatiando a Terra:
 
-* `Leonardo Uieda <uieda/index.html>`_
-* `Vanderlei Coelho Oliveira Jr. <oliveira-jr/index.html>`_
-* `José Fernando Caparica Jr. <caparicajr/index.html>`_
-* `Lucas Balancin <balancin/index.html>`_
-* `Henrique Bueno dos Santos <henrique-bueno-dos-santos/index.html>`_
+* `Leonardo Uieda <uieda>`_
+* `Vanderlei Coelho Oliveira Jr. <oliveira-jr>`_
+* `José Fernando Caparica Jr. <caparicajr>`_
+* `Lucas Balancin <balancin>`_
+* `Henrique Bueno dos Santos <henrique-bueno-dos-santos>`_

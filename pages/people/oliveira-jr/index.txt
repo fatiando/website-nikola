@@ -49,4 +49,4 @@ Publications
 
 
 
-.. _Uieda, L.: ../uieda/index.html
+.. _Uieda, L.: ../uieda
