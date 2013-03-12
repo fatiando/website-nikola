@@ -1,0 +1,135 @@
+.. title: Leonardo Uieda
+.. date: 2013/02/14 19:21:32
+.. slug: index
+
+.. raw:: html
+
+    <!-- EMAIL -->
+    <p style="margin-top:-20px">
+    <b>e-mail:</b>
+    <a href="mailto:leouieda@gmail.com">leouieda at gmail dot com</a>
+    
+
+    <!-- Portrait and icons -->
+    <div style="padding-top:20px; padding-bottom:90px;">
+        <!-- Portrait -->
+        <img src="../../portrait/leo.jpg" alt="Portrait" width="320px"
+         style="float:left; margin-right:30px; margin-bottom:30px;
+            box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.45);
+            padding:3px;
+            border: 1px solid rgb(221, 221, 221);">
+
+        <!-- figshare badge -->
+        <iframe
+            style="padding-top:10px;"
+            src="http://figshare.com/badges/5/97471"
+            frameborder="0" height="80" width="260">
+        </iframe>
+        <br>
+
+        <!-- Icons with links to my profiles in other places -->
+        <div style="margin-top:20px;">
+            <!-- Twitter -->
+            <a href="https://twitter.com/leouieda"><img
+             style="padding-left:3px"
+             src="../../logo/twitter.png" alt="Twitter" title="Twitter"></a>
+            <!-- Google+ -->
+            <a href="https://plus.google.com/u/0/106943803771424855320/posts"><img
+             style="padding-left:3px"
+             src="../../logo/gplus-color.png" alt="Google+" title="Google+"></a>
+            <!-- Linkedin -->
+            <a href="http://www.linkedin.com/in/uieda"><img
+             style="padding-left:3px"
+             src="../../logo/linkedin.png" alt="Linkedin" title="Linkedin"></a>
+            <!-- Mendeley -->
+            <a href="http://www.mendeley.com/profiles/leonardo-uieda/"><img
+             style="padding-left:3px"
+             src="../../logo/mendeley.png" alt="Mendeley" title="Mendeley"></a>
+            <!-- figshare -->
+            <a href="http://figshare.com/authors/Leonardo%20Uieda/97471"><img
+             style="padding-left:3px"
+             src="../../logo/figshare.png" alt="figshare" title="figshare"></a>
+            <!-- Lattes -->
+            <a href="http://lattes.cnpq.br/8939551682050504"><img
+             style="padding-left:3px"
+             src="../../logo/lattes.png" alt="Lattes" title="Curriculo Lattes"></a>
+            <!-- Google Scholar -->
+            <a href="http://scholar.google.com.br/citations?user=qfmPrUEAAAAJ"><img
+             style="padding-left:3px"
+             src="../../logo/google-scholar.png" alt="Google Scholar"
+             title="Google Scholar"></a>
+            <!-- GitHub -->
+            <a href="https://github.com/leouieda"><img
+             style="padding-left:3px"
+             src="../../logo/github-larger.png" alt="GitHub" title="GitHub"></a>
+        </div>
+    </div>
+
+
+I'm a **geophysics** PhD student
+working on potential field inversion 
+at the `Observatório Nacional`_, Rio de Janeiro, Brazil.
+I'm currently a member of
+the IAG Joint Working Group
+`JWG2.8: Modeling and Inversion of Gravity-Solid Earth Coupling`_.
+My interests are
+`inverse problems`_,
+`open source software`_,
+and
+`Northern Shaolin Kung Fu`_.
+
+.. _Observatório Nacional: http://www.on.br
+.. _JWG2.8\: Modeling and Inversion of Gravity-Solid Earth Coupling: http://www.iag-commission2.ch/ToRWG.htm
+.. _inverse problems: https://en.wikipedia.org/wiki/Inverse_problem
+.. _open source software: https://github.com/leouieda
+.. _Northern Shaolin Kung Fu: https://en.wikipedia.org/wiki/Chan_Kowk_Wai
+
+Research interests
+==================
+
+* Potential field modeling in spherical coordinates
+* 3D potential field inversion
+* Inverse problem methodologies
+* Scientific software development
+* Different ways to incorporate geologic information into geophysical inversion
+* Teaching inverse problems
+
+Education
+=========
+
+* **PhD** in Geophysics (2011-*ongoing*): 
+  `Observatório Nacional`_, Rio de Janeiro, Brasil
+* **MSc** in Geophysics (2010-2011): 
+  `Observatório Nacional`_, Rio de Janeiro, Brasil
+* **International Exchange Program** (2008-2009):
+  `York University`_, Toronto, Canada
+* **BSc** in Geophysics (2009):
+  `Universidade de São Paulo`_, São Paulo, Brasil
+
+.. _York University: http://www.yorku.ca/esse/
+.. _Universidade de São Paulo: http://www.iag.usp.br
+
+Publications
+============
+
+See my Mendeley_ profile
+to **download** the full text **PDFs** and 
+my figshare_  profile
+for presentations, videos, posters, data, etc.
+
+.. _Mendeley: http://www.mendeley.com/profiles/leonardo-uieda
+.. _figshare: http://figshare.com/authors/Leonardo%20Uieda/97471
+
+.. raw:: html
+
+    <!-- Mendeley widget with a list of publications -->
+    <div id="row-fluid" style="margin-top:20px;">
+    <iframe class="span8"
+        style="height:800px; float:center;
+            padding:8px;
+            border:1px solid rgb(211, 211, 211);
+            box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.25);"
+        src="http://www.mendeley.com/profiles/leonardo-uieda/widget/32/2703216930/80e033b660fae91481430385fd30d4bf0a685dfb/"
+        height="240" width="320" frameborder="0">
+    </iframe>
+    </div>
