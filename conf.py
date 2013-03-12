@@ -12,7 +12,7 @@ import time
 # Data about this site
 BLOG_AUTHOR = "Leonardo Uieda"
 BLOG_TITLE = "Fatiando a Terra"
-BLOG_URL = "http://fatiando.org"
+SITE_URL = "http://fatiando.org"
 BLOG_EMAIL = "leouieda@gmail.com"
 BLOG_DESCRIPTION = "Geophysical modeling and inversion"
 
@@ -56,7 +56,6 @@ SIDEBAR_LINKS = {
         ('/projects', 'Projects'),
         ('/people', 'People'),
         ('/contact', 'Contact'),
-        #('/archive.html', 'Archive'),
         # Icons
         ('https://github.com/leouieda/fatiando',
          '<img src="/logo/github.png" title="Source code on GitHub">'),
