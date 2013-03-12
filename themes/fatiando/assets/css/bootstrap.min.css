@@ -3229,7 +3229,7 @@ input[type="submit"].btn.btn-mini {
     list-style: none;
     margin-bottom: 20px;
     margin-left: 0px;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 .nav > li > a {
     font-size:15px;
@@ -3621,7 +3621,7 @@ input[type="submit"].btn.btn-mini {
     margin-left: -20px;
     padding: 10px 20px;
     text-shadow: 0px 1px #fff;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
 }
 .navbar .brand:hover,
 .navbar .brand:focus {
