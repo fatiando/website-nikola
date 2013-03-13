@@ -33,6 +33,8 @@ where I am currently a PhD candidate in Geophysics.
 Publications
 ============
 
+.. _Uieda, L.: ../uieda
+
 * Oliveira Jr., V. C., V. C. F. Barbosa, and J. B. C. Silva, 2011, 
   Source geometry estimation using the mass excess criterion to constrain 3-D 
   radial inversion of gravity data: Geophysical Journal International, 187 (2),
@@ -44,9 +46,6 @@ Publications
 * Oliveira Jr., V. C., Barbosa, V. C. F., and `Uieda, L.`_ (2013). 
   Polynomial equivalent layer. *GEOPHYSICS*, 78(1), G1-G13. 
   doi: 10.1190/geo2012-0196.1 
-  [`electronic pdf version <http://www.mendeley.com/download/public/1406731/5105763591/962190c0ce469dd11ff3f1bf2f77960abb1c1991/dl.pdf>`__]
+  [`electronic pdf version </papers/OliveiraJr.,Barbosa,Uieda_2012.pdf>`__]
   [`definitive version <http://dx.doi.org/10.1190/geo2012-0196.1>`__]
 
-
-
-.. _Uieda, L.: ../uieda
