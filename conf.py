@@ -94,7 +94,7 @@ SIDEBAR_LINKS = {
 #
 
 post_pages = (
-    #("posts/*.ipynb", "posts", "post.tmpl", True),
+    ("posts/*.ipynb", "blog", "post.tmpl", True),
     #("stories/*.ipynb", ".", "story.tmpl", False),
     ("posts/*.txt", "blog", "post.tmpl", True),
     ("posts/*.html", "blog", "post.tmpl", True),
@@ -314,7 +314,7 @@ RSS_TEASERS = False
 # is served from the NetDNA CDN
 # Set this to False if you want to host your site without requiring access to
 # external resources.
-# USE_CDN = False
+USE_CDN = False
 
 # Google analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
