@@ -734,11 +734,16 @@ dd {
 .dl-horizontal dd {
     margin-left: 180px;
 }
-hr {
-    border-bottom: 1px solid #fff;
-    border-top: 1px solid #eee;
-    border: 0px;
-    margin: 20px 0px;
+hr.top {
+    /*border-bottom: 1px solid #fff;*/
+    /*border-top: 1px solid #eee;*/
+    /*border: 1px solid #fff;*/
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+hr.bottom {
+    margin-bottom: 40px;
+    margin-top: 10px;
 }
 abbr[title],
 abbr[data-original-title] {

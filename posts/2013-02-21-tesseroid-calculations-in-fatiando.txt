@@ -4,6 +4,7 @@
 .. tags: tesseroids, development, fatiando
 .. link: 
 .. description: 
+.. author: uieda
 
 .. raw:: html
     
@@ -95,8 +96,3 @@ and plots that using a
 `Basemap toolkit <http://matplotlib.org/basemap/>`_).
 
 It's that easy!
-
----
-
-`Leonardo Uieda <../people/uieda/index.html>`_
-
