@@ -6,7 +6,7 @@
     % endif
 </%def>
 
-<%def name="html_author(name)">
+<%def name="html_author(post)">
     <%
         author_names = {
             "uieda": "Leonardo Uieda",
@@ -15,6 +15,7 @@
             "balancin": "Lucas Balancin",
             "henrique-bueno-dos-santos": "Henrique Bueno dos Santos"
         }
+        name = post.meta[lang]["author"]
     %>
     % if name:
         Author: <a href="/people/${name}">${author_names[name]}</a> <br />
