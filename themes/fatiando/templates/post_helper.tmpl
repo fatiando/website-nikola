@@ -6,6 +6,18 @@
     % endif
 </%def>
 
+<%def name="html_source_code(post)">    
+    % if post.source_ext() != ".html":
+        <br />
+        View as:
+        % if post.source_ext() == ".ipynb":
+            <a href="${post.meta[lang]['slug']+post.source_ext()}">IPython notebook</a>
+        % else:
+            <a href="${post.meta[lang]['slug']+post.source_ext()}">Source code</a>
+        % endif
+    % endif
+</%def>
+
 <%def name="html_author(post)">
     <%
         author_names = {
