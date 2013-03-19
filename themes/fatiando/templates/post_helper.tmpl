@@ -9,12 +9,19 @@
 <%def name="html_source_code(post)">    
     % if post.source_ext() != ".html":
         <br />
-        View as:
+        View as: 
+        <a href="${post.meta[lang]['slug']+post.source_ext()}"
+         title="Right-click and select 'Save Link As' to download">
         % if post.source_ext() == ".ipynb":
-            <a href="${post.meta[lang]['slug']+post.source_ext()}">IPython notebook</a>
+            IPython notebook
+        % elif post.source_ext() == ".txt":
+            reStructed text
+        % elif post.source_ext() == ".md":
+            Markdown
         % else:
-            <a href="${post.meta[lang]['slug']+post.source_ext()}">Source code</a>
+            Source code
         % endif
+        </a>
     % endif
 </%def>
 

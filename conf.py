@@ -1,7 +1,5 @@
-
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
-import os
 import time
 
 ##############################################
@@ -95,8 +93,8 @@ SIDEBAR_LINKS = {
 
 post_pages = (
     ("posts/*.ipynb", "blog", "post.tmpl", True),
-    #("stories/*.ipynb", ".", "story.tmpl", False),
     ("posts/*.txt", "blog", "post.tmpl", True),
+    ("posts/*.md", "blog", "post.tmpl", True),
     ("posts/*.html", "blog", "post.tmpl", True),
     ("pages/*.txt", ".",  "story.tmpl", False),
     ("pages/*.html", ".",  "story.tmpl", False),
