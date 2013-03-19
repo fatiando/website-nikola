@@ -20,6 +20,15 @@
 
 <%def name="html_author(post)">
     <%
+        name = post.meta[lang]["author"]
+    %>
+    % if name:
+        Author: ${html_author_link(name)} <br />
+    % endif
+</%def>
+
+<%def name="html_author_link(name)">
+    <%
         author_names = {
             "uieda": "Leonardo Uieda",
             "oliveira-jr": "Vanderlei C. Oliveira Jr",
@@ -27,11 +36,8 @@
             "balancin": "Lucas Balancin",
             "henrique-bueno-dos-santos": "Henrique Bueno dos Santos"
         }
-        name = post.meta[lang]["author"]
     %>
-    % if name:
-        Author: <a href="/people/${name}">${author_names[name]}</a> <br />
-    % endif
+    <a href="/people/${name}">${author_names[name]}</a>
 </%def>
 
 <%def name="html_translations(post)">

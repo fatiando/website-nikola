@@ -22,6 +22,7 @@
         <p>
         <time class="published" datetime="${post.date.isoformat()}">${postdate[:10]}</time>:
         <a href="${post.permalink(lang)}">${post.title(lang)}</a>
+        ##<i style="font-size:12px;">by ${post_helper.html_author_link(post.meta[lang]["author"])}</i>
         </p>
     % endfor
     ${helper.html_pager()}
