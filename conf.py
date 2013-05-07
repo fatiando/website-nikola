@@ -12,7 +12,7 @@ BLOG_AUTHOR = "Leonardo Uieda"
 BLOG_TITLE = "Fatiando a Terra"
 SITE_URL = "http://www.fatiando.org"
 BLOG_EMAIL = "leouieda@gmail.com"
-BLOG_DESCRIPTION = "Geophysical modeling and inversion"
+BLOG_DESCRIPTION = "Open source geophysical modeling and inversion"
 
 # Nikola is multilingual!
 #
