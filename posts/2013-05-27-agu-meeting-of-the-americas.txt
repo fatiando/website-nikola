@@ -1,0 +1,108 @@
+.. title: AGU Meeting of the Americas
+.. slug: 2013-05-27-agu-meeting-of-the-americas
+.. date: 2013/05/27 14:36:43
+.. tags: figshare, inversion, magnetometry, AGU, PhD
+.. link: 
+.. description: 
+
+
+A couple of weeks ago
+I was at the 
+`2013 AGU Meeting of the Americas <http://moa.agu.org/2013/>`_
+in Cancun, Mexico.
+The meeting felt kind of empty
+and almost every session
+had a talk withdrawn.
+Still, I greatly enjoyed 
+the ones that were presented,
+specially the seismology sessions!
+It was a chance
+to see old friends from 
+the `University of São Paulo <http://www.iag.usp.br/>`_
+and get an update on 
+what they are up to.
+Plus, it was in Cancun...
+
+.. figure:: /images/cancun-beach.jpg
+    :align: center 
+    :width: 600px
+
+    Sunny Cancun beach in front of the meeting venue.
+
+This was my second Meeting of the Americas.
+The first one was in 2010,
+here in Brazil,
+and I presented my work on 
+the `Tesseroids <http://leouieda.github.io/tesseroids>`_ software
+(`slides on figshare <http://dx.doi.org/10.6084/m9.figshare.156858>`_),
+which has been 
+`integrated into Fatiando 
+<2013-02-21-tesseroid-calculations-in-fatiando.html>`_.
+This year, 
+I gave an oral presentation
+entitled "3D magnetic inversion by planting anomalous densities".
+Now, for the geophysicists among you,
+this might seem like a really odd title.
+How can you invert
+a magnetic anomaly
+using densities?
+Well, you can't.
+That was a typo in the title
+that nobody seemed to catch!
+Not me, my adviser, or the referees.
+So the correct title should be
+"3D magnetic inversion by planting anomalous **magnetization**".
+Sorry about that...
+
+
+Anyway, this talk was about 
+a new 3D magnetic inversion method.
+This is an adaptation of the 
+`inversion method <http://library.seg.org/doi/abs/10.1190/geo2011-0388.1>`_
+that I developed for
+my Master's degree
+(`pdf <http://fatiando.org/papers/Uieda,Barbosa_2012(2).pdf>`_),
+which is implemented in 
+the `fatiando.gravmag.harvester 
+<http://fatiando.readthedocs.org/en/Version0.1/api/gravmag.harvester.html>`_
+module.
+I have been improving this method
+since the start of my PhD
+(see 
+`this SEG abstract <http://fatiando.org/papers/Uieda,Barbosa_2012(3).pdf>`_)
+and this presentation contains
+the latest developments.
+The code hasn't been merged 
+into the main Fatiando
+`development branch <https://github.com/leouieda/fatiando/tree/devel>`_ yet 
+but it should be available 
+in the 0.2 release.
+
+As always, 
+the slides are 
+`on figshare <http://dx.doi.org/10.6084/m9.figshare.703651>`_.
+While we wait for 
+the embed functionality
+in figshare, 
+I'll have to make do
+with Slideshare:
+
+.. raw:: html
+
+    <div style="float:center;">
+    <iframe src="http://www.slideshare.net/slideshow/embed_code/21222698" 
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" 
+    scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" 
+    allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe>
+    </div>
+
+I'll make the code and data
+needed to reproduce these results
+available once the paper has been submitted.
+
+Now I'll go prepare for 
+`Scipy 2013 <http://conference.scipy.org/scipy2013/>`_!
+
+--
+
+Leonardo Uieda
