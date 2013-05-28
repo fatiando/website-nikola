@@ -91,16 +91,21 @@ Education
 =========
 
 * **PhD** in Geophysics (2011-*ongoing*): 
-  `Observatório Nacional`_, Rio de Janeiro, Brasil
+  `Observatório Nacional`_, Brasil |   
+  Advisor: `Valéria C. F. Barbosa`_
 * **MSc** in Geophysics (2010-2011): 
-  `Observatório Nacional`_, Rio de Janeiro, Brasil
+  `Observatório Nacional`_, Brasil |
+  Advisor: `Valéria C. F. Barbosa`_
 * **International Exchange Program** (2008-2009):
   `York University`_, Toronto, Canada
 * **BSc** in Geophysics (2009):
-  `Universidade de São Paulo`_, São Paulo, Brasil
+  `Universidade de São Paulo`_, Brasil |
+  Advisor: `Naomi Ussami`_
 
 .. _York University: http://www.yorku.ca/esse/
 .. _Universidade de São Paulo: http://www.iag.usp.br
+.. _Valéria C. F. Barbosa: http://lattes.cnpq.br/0391036221142471
+.. _Naomi Ussami: http://lattes.cnpq.br/6704246490515612
 
 Publications
 ============
@@ -139,8 +144,8 @@ Polynomial equivalent layer, Geophysics, 78(1), G1–G13,
 doi:`10.1190/geo2012-0196.1 <http://library.seg.org/doi/abs/10.1190/geo2012-0196.1>`__.
 [`pdf </papers/OliveiraJr.,Barbosa,Uieda_2012.pdf>`__]
 
--- Conference abstracts/proceedings -- 
---------------------------------------
+-- Expanded abstracts and proceedings -- 
+----------------------------------------
 
 **Uieda, L.**, and V. C. F. Barbosa (2012), 
 Use of the "shape-of-anomaly" data misfit in 3D inversion by planting 
@@ -157,11 +162,12 @@ doi:`10.1190/segam2012-0525.1 <http://library.seg.org/doi/abs/10.1190/segam2012-
 [`pdf </papers/Carlos,etal._2012.pdf>`__]
 [`slides <http://dx.doi.org/10.6084/m9.figshare.156865>`__]
 
-**Uieda, L.** and V. C. F. Barbosa (2012), 
-Rapid 3D inversion of gravity and gravity gradient data to test geologic 
-hypotheses, 
-International Symposium on Gravity, Geoid and Height Systems.
-[`abstract + slides <http://dx.doi.org/10.6084/m9.figshare.156859>`__]
+**Uieda, L.**, E. P. Bomfim, C. Braitenberg, and E. Molina (2011), 
+Optimal forward calculation method of the Marussi tensor due to a geologic 
+structure at GOCE height, 
+Proc. of 4th International GOCE User Workshop, pp. 1–5.
+[`pdf </papers/Uieda,etal._2011.pdf>`__]
+[`poster <http://dx.doi.org/10.6084/m9.figshare.92624>`__]
 
 **Uieda, L.**, and V. C. F. Barbosa (2011), 
 Robust 3D gravity gradient inversion by planting anomalous densities, 
@@ -182,13 +188,6 @@ SBGf 2011 Expanded Abstracts, pp. 1–5.
 [`pdf </papers/Uieda,Barbosa_2011(2).pdf>`__]
 [`slides <http://dx.doi.org/10.6084/m9.figshare.156861>`__]
 
-**Uieda, L.**, E. P. Bomfim, C. Braitenberg, and E. Molina (2011), 
-Optimal forward calculation method of the Marussi tensor due to a geologic 
-structure at GOCE height, 
-Proc. of 4th International GOCE User Workshop, pp. 1–5.
-[`pdf </papers/Uieda,etal._2011.pdf>`__]
-[`poster <http://dx.doi.org/10.6084/m9.figshare.92624>`__]
-
 Carlos, D. U., V. C. F. Barbosa, **L. Uieda**, and M. A. Braga (2011), 
 Inversão de Dados de Aerogradiometria Gravimétrica 3D-FTG aplicada a exploração 
 mineral na Região do Quadrilátero Ferrífero, 
@@ -203,8 +202,24 @@ pp. 902–906,
 doi:`10.1190/1.3628219 <http://library.seg.org/doi/abs/10.1190/1.3628219>`__.
 [`pdf </papers/Carlos,etal._2011.pdf>`__]
 
+-- Conference abstracts --
+--------------------------
+
+**Uieda, L.** and V. C. F. Barbosa (2013), 3D magnetic inversion by planting 
+anomalous densities,
+AGU Meeting of the Americas, Abstract GP22A-01.
+[`abstract </blog/2013-05-27-agu-meeting-of-the-americas.html>`__]
+[`slides <http://dx.doi.org/10.6084/m9.figshare.703651>`__]
+
+**Uieda, L.** and V. C. F. Barbosa (2012), 
+Rapid 3D inversion of gravity and gravity gradient data to test geologic 
+hypotheses, 
+International Symposium on Gravity, Geoid and Height Systems.
+[`abstract + slides <http://dx.doi.org/10.6084/m9.figshare.156859>`__]
+
 **Uieda, L.**, N. Ussami, and C. F. Braitenberg (2010), 
 Computation of the gravity gradient tensor due to topographic masses 
 using tesseroids, Eos Trans. AGU, Meet. Am. Suppl., vol. 91, Abstract G22A–04.
 [`abstract <http://www.agu.org/cgi-bin/SFgate/SFgate?language=English&verbose=0&listenv=table&application=ja10&convert=&converthl=&refinequery=&formintern=&formextern=&transquery=au=uieda&_lines=&multiple=0&descriptor=/data/epubs/wais/indexes/ja10/ja10%7C1000%7C3828%7CComputation%20of%20the%20gravity%20gradient%20tensor%20due%20to%20topographic%20masses%20using%20tesseroids%7CHTML%7Clocalhost:0%7C/data/epubs/wais/indexes/ja10/ja10%7C2890230%202894058%20/data2/epubs/wais/data/ja10/ja10.txt>`__]
 [`slides <http://dx.doi.org/10.6084/m9.figshare.156858>`__]
+

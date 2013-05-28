@@ -40,7 +40,7 @@ which has been
 <2013-02-21-tesseroid-calculations-in-fatiando.html>`_.
 This year, 
 I gave an oral presentation
-entitled "3D magnetic inversion by planting anomalous densities".
+entitled "**3D magnetic inversion by planting anomalous densities**".
 Now, for the geophysicists among you,
 this might seem like a really odd title.
 How can you invert
