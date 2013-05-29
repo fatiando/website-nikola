@@ -2,8 +2,7 @@
 .. date: 2013/02/14 19:21:32
 .. slug: index
 
-Geophysicist, 
-PhD candidate at `Observatório Nacional`_, Brazil
+Geophysicist, at `Observatório Nacional`_, Brazil
 
 **e-mail**: vandscoelho@gmail.com / vanderlei@on.br
 
@@ -26,7 +25,7 @@ After completing my undergraduate degree in Geophysics at the
 I did a master's degree in Geophysics at 
 `Observatório Nacional`_
 (`thesis – in portuguese <http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/GEOFISICA/[262_36-45_C]vanderlei_dissertacao.pdf>`_),
-where I am currently a PhD candidate in Geophysics.
+where I subsequently  obtained a PhD's degree.
 
 .. _Observatório Nacional: http://www.on.br
 
