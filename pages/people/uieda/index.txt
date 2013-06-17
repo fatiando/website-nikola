@@ -132,13 +132,9 @@ Latest talks
 **SEG Las Vegas 2012**
 
 .. raw:: html
-
-    <iframe src="http://www.slideshare.net/slideshow/embed_code/15199372" 
-    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" 
-    scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;
-    margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> 
-    </iframe> 
     
+    <iframe src="http://wl.figshare.com/articles/156864/embed?show_title=0" 
+    width="568" height="381" frameborder="0"></iframe>
 
 Publications
 ============
