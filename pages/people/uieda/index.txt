@@ -58,6 +58,13 @@
          src="../../logo/github-larger.png" alt="GitHub" title="GitHub"></a>
     </div>
 
+    <!-- figshare badge -->
+    <iframe
+        style="padding-top:10px;"
+        src="http://figshare.com/badges/5/97471"
+        frameborder="0" height="80" width="260">
+    </iframe>
+
 
 I'm a **geophysics** PhD student
 working on potential field inversion 
@@ -76,16 +83,6 @@ and
 .. _inverse problems: https://en.wikipedia.org/wiki/Inverse_problem
 .. _open source software: https://github.com/leouieda
 .. _Northern Shaolin Kung Fu: https://en.wikipedia.org/wiki/Chan_Kowk_Wai
-
-Research interests
-==================
-
-* Potential field modeling in spherical coordinates
-* 3D potential field inversion
-* Inverse problem methodologies
-* Scientific software development
-* Different ways to incorporate geologic information into geophysical inversion
-* Teaching inverse problems
 
 Education
 =========
@@ -107,6 +104,42 @@ Education
 .. _Valéria C. F. Barbosa: http://lattes.cnpq.br/0391036221142471
 .. _Naomi Ussami: http://lattes.cnpq.br/6704246490515612
 
+Research interests
+==================
+
+* Potential field modeling in spherical coordinates
+* 3D potential field inversion
+* Inverse problem methodologies
+* Scientific software development
+* Different ways to incorporate geologic information into geophysical inversion
+* Teaching inverse problems
+
+.. raw:: html
+    
+    <iframe src="http://wl.figshare.com/articles/91469/embed?show_title=1" 
+    width="600" height="400" frameborder="0""></iframe>
+
+Latest talks
+============
+
+**AGU Cancun 2013**
+
+.. raw:: html
+
+    <iframe src="http://wl.figshare.com/articles/703651/embed?show_title=0" 
+    width="427" height="356" frameborder="0"></iframe>
+
+**SEG Las Vegas 2012**
+
+.. raw:: html
+
+    <iframe src="http://www.slideshare.net/slideshow/embed_code/15199372" 
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" 
+    scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;
+    margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> 
+    </iframe> 
+    
+
 Publications
 ============
 
@@ -119,17 +152,9 @@ for presentations, videos, posters, data, etc.
 .. _figshare: http://figshare.com/authors/Leonardo%20Uieda/97471
 .. _Oliveira Jr., V. C.: /people/oliveira-jr
 
-.. raw:: html
-
-    <!-- figshare badge -->
-    <iframe
-        style="padding-top:10px;"
-        src="http://figshare.com/badges/5/97471"
-        frameborder="0" height="80" width="260">
-    </iframe>
-
 -- Journal articles --
 ----------------------
+
 
 **Uieda, L.**, and V. C. F. Barbosa (2012), 
 Robust 3D gravity gradient inversion by planting anomalous densities, 
