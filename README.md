@@ -3,11 +3,19 @@
 Source code for the website http://fatiando.org
 
 Made using [Nikola](http://nikola.ralsina.com.ar), a static site generator.
+The plugin and theme to use IPython notebooks by
+[Damián Avila](http://www.damian.oquanta.info/).
+See his [blog post](http://www.damian.oquanta.info/posts/blogging-with-nikola-and-ipython.html)
+for more information.
 
-Code to generate the site is on the *master* branch.
-Use `make build` to generate the html for the site and
-`make serve` to open it in Firefox.
+Questions and comments, contact
+[Leonardo Uieda](http://fatiando.org/people/uieda).
 
-For now, a copy of the generated html site
-is in the *gh-pages* branch.
-This way it is served by GitHub Pages at http://leouieda.github.com/fatiando.org
+## Requirements
+
+You'll need to install Nikola version 5.4.4 and all its dependencies.
+
+## Building the site
+
+Use `make build` to generate the HTML for the site and
+`make serve` start a webserver and  open it in Firefox.
