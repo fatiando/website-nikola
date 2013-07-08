@@ -107,20 +107,32 @@ Education
 Research interests
 ==================
 
-* Potential field modeling in spherical coordinates
-* 3D potential field inversion
+* `Potential field modeling in spherical coordinates`_
+* `3D potential field inversion`_
 * Inverse problem methodologies
-* Scientific software development
+* `Scientific software development`_
 * Different ways to incorporate geologic information into geophysical inversion
-* Teaching inverse problems
+* `Teaching inverse problems`_
 
-.. raw:: html
-    
-    <iframe src="http://wl.figshare.com/articles/91469/embed?show_title=1" 
-    width="600" height="400" frameborder="0""></iframe>
+.. _Potential field modeling in spherical coordinates: http://leouieda.github.io/tesseroids/
+.. _Teaching inverse problems: https://github.com/leouieda/inverse-problems
+.. _Scientific software development: https://github.com/leouieda
+.. _3D potential field inversion: http://dx.doi.org/10.6084/m9.figshare.91469
 
 Latest talks
 ============
+
+**SciPy 2013**
+
+.. raw:: html
+    
+   <iframe width="560" height="315" src="//www.youtube.com/embed/Ec38h1oB8cc" i
+   frameborder="0" allowfullscreen></iframe> 
+
+You can view the 
+`slideshow in your browser 
+<http://leouieda.github.io/scipy2013/?theme=night#/>`_!
+*Hint*: Use the arrow keys.
 
 **AGU Cancun 2013**
 
@@ -146,7 +158,8 @@ for presentations, videos, posters, data, etc.
 
 .. _Mendeley: http://www.mendeley.com/profiles/leonardo-uieda
 .. _figshare: http://figshare.com/authors/Leonardo%20Uieda/97471
-.. _Oliveira Jr., V. C.: /people/oliveira-jr
+.. _Oliveira Jr, V. C.: /people/oliveira-jr
+.. _V. C. Oliveira Jr: /people/oliveira-jr
 
 -- Journal articles --
 ----------------------
@@ -160,7 +173,7 @@ doi:`10.1190/geo2011-0388.1 <http://library.seg.org/doi/abs/10.1190/geo2011-0388
 [`supplement <http://dx.doi.org/10.6084/m9.figshare.91574>`__]
 [`animation <http://dx.doi.org/10.6084/m9.figshare.91469>`__]
 
-`Oliveira Jr., V. C.`_, V. C. F. Barbosa, and **L. Uieda** (2012), 
+`Oliveira Jr, V. C.`_, V. C. F. Barbosa, and **L. Uieda** (2012), 
 Polynomial equivalent layer, Geophysics, 78(1), G1–G13, 
 doi:`10.1190/geo2012-0196.1 <http://library.seg.org/doi/abs/10.1190/geo2012-0196.1>`__.
 [`pdf </papers/OliveiraJr.,Barbosa,Uieda_2012.pdf>`__]
@@ -168,9 +181,17 @@ doi:`10.1190/geo2012-0196.1 <http://library.seg.org/doi/abs/10.1190/geo2012-0196
 -- Expanded abstracts and proceedings -- 
 ----------------------------------------
 
+**Uieda, L.**, `V. C. Oliveira Jr`_ and V. C. F. Barbosa (2013), 
+Modeling the Earth with Fatiando a Terra, 
+Proceedings of the 12th Python in Science Conference, pp. 90-96.
+[`pdf </papers/Uieda,OliveiraJr,Barbosa_2013.pdf>`__]
+[`slides <http://leouieda.github.io/scipy2013/?theme=night#/>`__]
+[`source code <https://github.com/leouieda/scipy2013>`__]
+[`video <http://www.youtube.com/watch?v=Ec38h1oB8cc>`__]
+
 **Uieda, L.**, and V. C. F. Barbosa (2012), 
 Use of the "shape-of-anomaly" data misfit in 3D inversion by planting 
-anomalous densities, SEG Technical Program Expanded Abstracts, pp. 1–6,
+anomalous densities, SEG Technical Program Expanded Abstracts, pp. 1-6,
 doi:`10.1190/segam2012-0383.1 <http://library.seg.org/doi/abs/10.1190/segam2012-0383.1>`__.
 [`pdf </papers/Uieda,Barbosa_2012(3).pdf>`__]
 [`slides <http://dx.doi.org/10.6084/m9.figshare.156864>`__]
