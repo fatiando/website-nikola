@@ -258,6 +258,7 @@ Rapid 3D inversion of gravity and gravity gradient data to test geologic
 hypotheses, 
 International Symposium on Gravity, Geoid and Height Systems.
 [`abstract + slides <http://dx.doi.org/10.6084/m9.figshare.156859>`__]
+[`source code + data <https://github.com/leouieda/gghs2012>`__]
 
 **Uieda, L.**, N. Ussami, and C. F. Braitenberg (2010), 
 Computation of the gravity gradient tensor due to topographic masses 
