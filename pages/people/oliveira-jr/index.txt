@@ -2,7 +2,7 @@
 .. date: 2013/02/14 19:21:32
 .. slug: index
 
-Geophysicist at `Observatório Nacional`_, Brazil
+Researcher at the department of Geophysics of `Observatório Nacional`_, Brazil
 
 **e-mail**: vandscoelho@gmail.com / vanderlei@on.br
 
@@ -10,6 +10,7 @@ Geophysicist at `Observatório Nacional`_, Brazil
 
 * `Google Scholar <http://scholar.google.com.br/citations?user=TQbQ4TcAAAAJ>`_
 * `Plataforma Lattes <http://lattes.cnpq.br/4332841435949533>`_
+* `ResearcherID <http://www.researcherid.com/rid/E-1871-2013>`_
 
 Research
 ========
@@ -25,7 +26,7 @@ After completing my undergraduate degree in Geophysics at the
 I did a master's degree in Geophysics at 
 `Observatório Nacional`_
 (`thesis – in portuguese <http://www.on.br/conteudo/dppg_e_iniciacao/dppg/ferramenta_teses/teses/GEOFISICA/[262_36-45_C]vanderlei_dissertacao.pdf>`_),
-where I subsequently  obtained a PhD's degree.
+where I subsequently  obtained a PhD's degree. Nowadays I am a researcher at the department of Geophysics of `Observatório Nacional`_.
 
 .. _Observatório Nacional: http://www.on.br
 
