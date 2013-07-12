@@ -10,12 +10,12 @@
     <a href="mailto:eusoubrasileiro@gmail.com">eusoubrasileiro at gmail dot com</a>
     </p>
 
-I'm a **geophysicist** at ANP.
+I hope I will soon be **geophysicist** at ANP.
 
 Education
 =========
 
-* **BSc** in Geophysics (2009):
+* **BSc** in Geophysics (dec 2008):
   `Universidade de São Paulo`_, Brazil
 
 .. _Universidade de São Paulo: http://www.iag.usp.br
@@ -24,6 +24,7 @@ Research interests
 ==================
 
 * Seismic wave propagation
+* Seismic stratigraphy
 
 
 Publications
