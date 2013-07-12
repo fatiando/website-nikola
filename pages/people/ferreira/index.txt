@@ -1,0 +1,31 @@
+.. title: André Ferreira 
+.. date: 2013/02/14 19:21:32
+.. slug: index
+
+.. raw:: html
+
+    <!-- EMAIL -->
+    <p style="margin-top:-5px; margin-bottom:20px;">
+    <b>e-mail:</b>
+    <a href="mailto:eusoubrasileiro@gmail.com">eusoubrasileiro at gmail dot com</a>
+    </p>
+
+I'm a **geophysicist** at ANP.
+
+Education
+=========
+
+* **BSc** in Geophysics (2009):
+  `Universidade de São Paulo`_, Brazil
+
+.. _Universidade de São Paulo: http://www.iag.usp.br
+
+Research interests
+==================
+
+* Seismic wave propagation
+
+
+Publications
+============
+

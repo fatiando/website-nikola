@@ -76,8 +76,8 @@ have a look at the
 Documentation for Fatiando is hosted on
 `ReadTheDocs <https://readthedocs.org/>`_:
 
-* `Version 0.1 <http://fatiando.readthedocs.org/en/latest/index.html>`_
-* `Current development version (0.2) <http://fatiando.readthedocs.org/en/devel/index.html>`_
+* `Version 0.1 <http://fatiando.readthedocs.org/en/v0.1/>`_
+* `Current development version (0.2) <http://fatiando.readthedocs.org/en/latest>`_
 
 .. raw:: html
     
