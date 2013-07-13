@@ -60,14 +60,14 @@ of the presentation and proceedings in
     
     <h2>Development</h2>
 
-*Fatiando a Terra* is under development on
+*Fatiando a Terra* is under development at
 `GitHub <https://github.com/leouieda/fatiando>`_!
-The `master <https://github.com/leouieda/fatiando/tree/master>`_ branch 
-has the current stable version that is on 
-`PyPI <https://pypi.python.org/pypi/fatiando>`_.
+There are named branches for each release
+that is on `PyPI <https://pypi.python.org/pypi/fatiando>`_
+(e.g., `v0.1 <https://github.com/leouieda/fatiando/tree/v0.1>`_).
 If you want the bleeding edge,
 have a look at the 
-`devel <https://github.com/leouieda/fatiando/tree/devel>`_ branch.
+`master <https://github.com/leouieda/fatiando/tree/master>`_ branch.
 
 .. raw:: html
     
