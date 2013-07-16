@@ -232,6 +232,7 @@ anomalous densities,
 AGU Meeting of the Americas, Abstract GP22A-01.
 [`abstract </blog/2013-05-27-agu-meeting-of-the-americas.html>`__]
 [`slides <http://dx.doi.org/10.6084/m9.figshare.703651>`__]
+[`source code + data <https://github.com/leouieda/agu-cancun2013>`__]
 
 **Uieda, L.** and V. C. F. Barbosa (2012), 
 Rapid 3D inversion of gravity and gravity gradient data to test geologic 
