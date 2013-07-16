@@ -35,10 +35,6 @@
         <a href="http://www.linkedin.com/in/uieda"><img
          style="padding-left:3px"
          src="../../logo/linkedin.png" alt="Linkedin" title="Linkedin"></a>
-        <!-- Mendeley -->
-        <a href="http://www.mendeley.com/profiles/leonardo-uieda/"><img
-         style="padding-left:3px"
-         src="../../logo/mendeley.png" alt="Mendeley" title="Mendeley"></a>
         <!-- figshare -->
         <a href="http://figshare.com/authors/Leonardo%20Uieda/97471"><img
          style="padding-left:3px"
@@ -57,13 +53,6 @@
          style="padding-left:3px"
          src="../../logo/github-larger.png" alt="GitHub" title="GitHub"></a>
     </div>
-
-    <!-- figshare badge -->
-    <iframe
-        style="padding-top:10px;"
-        src="http://figshare.com/badges/5/97471"
-        frameborder="0" height="80" width="260">
-    </iframe>
 
 
 I'm a **geophysics** PhD student
@@ -141,22 +130,12 @@ You can view the
     <iframe src="http://wl.figshare.com/articles/703651/embed?show_title=0" 
     width="427" height="356" frameborder="0"></iframe>
 
-**SEG Las Vegas 2012**
-
-.. raw:: html
-    
-    <iframe src="http://wl.figshare.com/articles/156864/embed?show_title=0" 
-    width="568" height="381" frameborder="0"></iframe>
-
 Publications
 ============
 
-You can also use my Mendeley_ profile
-to **download** the full text **PDFs** and 
-my figshare_  profile
-for presentations, videos, posters, data, etc.
+You will find presentations, videos, posters, data, etc 
+in my figshare_  profile. 
 
-.. _Mendeley: http://www.mendeley.com/profiles/leonardo-uieda
 .. _figshare: http://figshare.com/authors/Leonardo%20Uieda/97471
 .. _Oliveira Jr, V. C.: /people/oliveira-jr
 .. _V. C. Oliveira Jr: /people/oliveira-jr
@@ -187,6 +166,7 @@ Proceedings of the 12th Python in Science Conference, pp. 90-96.
 [`pdf </papers/Uieda,OliveiraJr,Barbosa_2013.pdf>`__]
 [`slides <http://leouieda.github.io/scipy2013/?theme=night#/>`__]
 [`source code <https://github.com/leouieda/scipy2013>`__]
+[`code samples in proc. <http://dx.doi.org/10.6084/m9.figshare.708390>`__]
 [`video <http://www.youtube.com/watch?v=Ec38h1oB8cc>`__]
 
 **Uieda, L.**, and V. C. F. Barbosa (2012), 
