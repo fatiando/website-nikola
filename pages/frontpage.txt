@@ -55,6 +55,47 @@ You can view and download the slides and source code
 of the presentation and proceedings in
 `this GitHub repository <https://github.com/leouieda/scipy2013>`_.
 
+.. raw:: html
+    
+    <h2>Documentation</h2>
+
+Documentation for Fatiando is hosted on
+`ReadTheDocs <https://readthedocs.org/>`_:
+
+* `Version 0.1 <http://fatiando.readthedocs.org/en/v0.1/>`_
+* `Current development version (0.2) <http://fatiando.readthedocs.org/en/latest>`_
+
+.. raw:: html
+    
+    <h2>Citing</h2>
+
+Many of us are scientists too, 
+so citations help justify the effort 
+that goes into building Fatiando.
+If you use Fatiando in your research,
+please consider citing it in your publications:
+
+    Uieda, L., V. C. Oliveira Jr and V. C. F. Barbosa (2013), 
+    Modeling the Earth with Fatiando a Terra, 
+    *Proceedings of the 12th Python in Science Conference*.
+    [`pdf <http://fatiando.org/papers/Uieda,OliveiraJr,Barbosa_2013.pdf>`__]
+
+or if you're a BibTex user: ::
+
+    @inproceedings{,
+        author = {Uieda, Leonardo and Oliveira Jr, Vanderlei C. and Barbosa, Val\'eria C. F.},
+        title = {Modeling the Earth with Fatiando a Terra},
+        booktitle = {Proceedings of the 12th Python in Science Conference},
+        year = {2013},
+        url = {http://fatiando.org/papers/Uieda,OliveiraJr,Barbosa_2013.pdf}}
+
+See our `CITATION file 
+<https://github.com/leouieda/fatiando/blob/master/CITATION.rst>`__
+for more information.
+Read `this
+<http://www.software.ac.uk/blog/2013-09-02-encouraging-citation-software-introducing-citation-files>`__
+if you haven't heard of CITATION files yet. 
+They're the latest trend!
 
 .. raw:: html
     
@@ -68,16 +109,6 @@ that is on `PyPI <https://pypi.python.org/pypi/fatiando>`_
 If you want the bleeding edge,
 have a look at the 
 `master <https://github.com/leouieda/fatiando/tree/master>`_ branch.
-
-.. raw:: html
-    
-    <h2>Documentation</h2>
-
-Documentation for Fatiando is hosted on
-`ReadTheDocs <https://readthedocs.org/>`_:
-
-* `Version 0.1 <http://fatiando.readthedocs.org/en/v0.1/>`_
-* `Current development version (0.2) <http://fatiando.readthedocs.org/en/latest>`_
 
 .. raw:: html
     
