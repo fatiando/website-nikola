@@ -1,0 +1,136 @@
+.. title: Why I started Fatiando (or "Why scientists should learn to program")
+.. slug: 2013-09-05-why-i-started-fatiando
+.. date: 2013/09/05 14:36:43
+.. tags: programming, development, science
+.. link:
+.. description:
+
+I recently found an article by
+`Matt Hall <http://www.agilegeoscience.com/matt>`_
+of `Agile* <http://www.agilegeoscience.com>`_
+called
+"`Learn to program <http://www.agilegeoscience.com/journal/2011/9/28/learn-to-program.html>`_".
+He makes a strong case
+for investing time
+to learn at least the basics of programming.
+And I couldn't agree more!
+
+My first contact with programming
+was in my freshman year (2004... wow, time flies).
+I had the extremely good luck
+of getting an extraordinary professor
+to teach us
+`C <http://en.wikipedia.org/wiki/C_%28programming_language%29>`_
+in *Introduction to computing*.
+I enjoyed it so much that,
+after some time,
+I decided to take it up a notch.
+I took a *Computing for geophysicists* course
+and, later on, *Introduction to algorithms*
+at the applied math department.
+I liked it so much that my bachelor's thesis
+was basically developing the
+`Tesseroids <http://leouieda.github.io/tesseroids/>`_ software!
+Yes, it is in C.
+Yes, I could have done the same thing `in 300 lines of Python
+<https://github.com/leouieda/fatiando/blob/ff0d4eeec1072d5f8c28018d2dd9983b7e98d72a/fatiando/gravmag/_tesseroid.py>`_.
+But I'm really proud of it
+because it is something
+that `people actually use
+<http://scholar.google.com.br/scholar?cites=12121998768432663658&as_sdt=2005&sciodt=0,5&hl=en>`_!
+
+But the best thing
+about learning to program
+is that it allowed me
+to see how the theories I learned
+actually work!
+Quoting Matt:
+
+    When you read a paper about some interesting new method, imagine being able
+    to pick up a keyboard and just try it, right now...
+    or at least in an hour or two.
+
+And that is exactly why
+I started building Fatiando a Terra
+during my Master's.
+I started implementing everything that I learned.
+And I did it in a way
+that allowed to me reuse all that I built.
+As a result,
+implementing new things
+got faster and faster
+the more I did it!
+But the best thing is
+that I gained
+a much deeper knowledge
+of the things that I studied.
+
+When I was studying seismic waves,
+I built `fatiando.seismic.wavefd
+<http://fatiando.readthedocs.org/en/latest/api/seismic.wavefd.html>`_,
+a `Finite Differences
+<http://en.wikipedia.org/wiki/Finite_difference_method>`_
+solution of the elastic wave equation.
+As a result,
+I could study `Loves waves <http://en.wikipedia.org/wiki/Love_wave>`_
+(a kind of surface wave)
+not only through the complicated math
+and pictorial drawings, like this
+
+.. raw:: html
+
+    <img src="http://upload.wikimedia.org/wikipedia/commons/2/25/Love_wave.jpg"
+     width="300px">
+
+but I could actually **see** them happen, like this
+
+
+.. image:: /images/love-wave-irregular-crust.gif
+
+Once the difficult part of implementing `the algorithm
+<https://github.com/leouieda/fatiando/blob/1117cd3796828ad9300a13a54f82a5141e2ca7b1/fatiando/seismic/_wavefd.pyx#L164>`_
+is done,
+setting up a simulation like that
+requires `relatively little code
+<https://github.com/leouieda/fatiando/blob/9de3460066f60569754afbf380a455f8ddc2cec7/cookbook/seismic_wavefd_love_wave.py>`_.
+So I can easily explore all kinds of wave phenomena,
+like P wave partitioning at an interface:
+
+.. image:: /images/p-wave-partitioning.png
+    :width: 600px
+
+Other examples that came out of the classroom are:
+
+* `fatiando.gravmag.imaging
+  <http://fatiando.readthedocs.org/en/latest/api/gravmag.imaging.html>`_
+  and
+  `fatiando.gravmag.tensor
+  <http://fatiando.readthedocs.org/en/latest/api/gravmag.tensor.html#module-fatiando.gravmag.tensor>`_
+  which are products of
+  studying three papers (
+  `[1] <http://library.seg.org/doi/abs/10.1190/geo2011-0078.1>`_,
+  `[2] <http://library.seg.org/doi/abs/10.1190/1.3484098>`_ and
+  `[3] <http://library.seg.org/doi/abs/10.1190/1.1442807?journalCode=gpysa7>`_)
+  for a course about recent developments in potential field methods;
+* `fatiando.seismic.srtomo
+  <http://fatiando.readthedocs.org/en/latest/api/seismic.srtomo.html>`_
+  and many kinds of
+  `regularizations <http://en.wikipedia.org/wiki/Regularization_%28mathematics%29>`_
+  were implemented in my inverse problems course;
+
+So do yourself a **huge** favor,
+grab a cup of coffee,
+and head over to `Software Carpentry <http://software-carpentry.org/>`_
+to learn one of the most useful skills a scientist can learn.
+And while you're there,
+be sure to checkout the sections on
+`version control <http://software-carpentry.org/v4/vc/index.html>`_,
+`Make <http://software-carpentry.org/v4/make/index.html>`_,
+and `testing <http://software-carpentry.org/v4/test/index.html>`_.
+They'll make you a more competent, more productive,
+and, best of all, happier programmer!
+
+--
+
+Leonardo Uieda
+
