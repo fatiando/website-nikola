@@ -93,11 +93,11 @@ Publications
 -- Expanded abstracts and proceedings -- 
 ----------------------------------------
 
-Coimbra, T. A., **H. B. dos Santos**, J. Schleicher, and A. Novais (2013),
+Coimbra, T. A., **H. B. Santos**, J. Schleicher, and A. Novais (2013),
 Migration Velocity Analysis using Time-Remigration Trajectory in Prestack Data,
 in 13th International Congress of The Brazilian Geophysical Society & EXPOGEF, p. 1-5, Rio de Janeiro, Brazil. [`pdf </papers/Coimbra,etal._2013.pdf>`__]
 
-Santos, E. B., **H. B. dos Santos**, Í. Vitorello, and M. B. de Pádua (2013),
+Santos, E. B., **H. B. Santos**, Í. Vitorello, and M. B. de Pádua (2013),
 Joint Interpretation of Magnetotelluric and Gravimetric Data in the Paraná Basin,
 in 13th International Congress of The Brazilian Geophysical Society & EXPOGEF, p. 1-5, Rio de Janeiro, Brazil. [`pdf </papers/Santos,etal._2013(3).pdf>`__]
 
