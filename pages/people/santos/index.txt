@@ -154,9 +154,9 @@ Courses and Workshops
 .. 13th International Congress of the Brazilian Geophysical Society
 .. Rio de Janeiro, 26 - 29 August 2013 SulAmérica Convention Center
 
-.. **13th International Congress of the Brazilian Geophysical Society (SBGf 2013):**
+**13th International Congress of the Brazilian Geophysical Society (SBGf 2013):**
 
-.. * `An Introduction to Velocity Model Building`_. David Kessler, SeismicCity, 25 August (8 hrs).
+* `An Introduction to Velocity Model Building`_. David Kessler, SeismicCity, 25 August (8 hrs).
 
 **IV Semana de Inverno de Geofísica:** INCT-GP, `UNICAMP`_, Campinas, SP, 22-26 July [`official site <http://semanainvernogeofisica.wordpress.com/>`__]
 
