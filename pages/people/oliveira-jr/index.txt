@@ -55,6 +55,6 @@ Publications
 
 * Melo, F., Barbosa, V., Uieda, L., Oliveira Jr., V., and Silva, J._ (2013). 
   Estimating the nature and the horizontal and vertical positions of 3D magnetic sources using Euler deconvolution. 
-*GEOPHYSICS*, 78(6), J87-J98. doi: 10.1190/geo2012-0515.1 
+  *GEOPHYSICS*, 78(6), J87-J98. doi: 10.1190/geo2012-0515.1 
   [`electronic pdf version <coming soon>`__]
   [`definitive version <http://dx.doi.org/10.1190/geo2012-0515.1>`__]
