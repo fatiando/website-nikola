@@ -52,3 +52,9 @@ Publications
 * Oliveira Jr., V. C. and V. C. F. Barbosa, 2013, 3-D radial gravity gradient inversion: 
   Geophysical Journal International, 3, 30p. doi: 10.1093/gji/ggt307
   [`abstract <http://gji.oxfordjournals.org/content/early/2013/09/03/gji.ggt307.abstract?keytype=ref&ijkey=AzI3745gsPwWGOp>`__]
+
+* Melo, F. F., Barbosa, V. C. F., Uieda, L., Oliveira Jr., V. C., and Silva, J. B. C.`_ (2013). 
+  Estimating the nature and the horizontal and vertical positions of 3D magnetic sources using Euler deconvolution.
+  *GEOPHYSICS*, 78(6), J87-J98. doi: 10.1190/geo2012-0515.1
+  [electronic pdf version coming soon]
+  [`definitive version <http://dx.doi.org/10.1190/geo2012-0515.1>`__]
