@@ -35,11 +35,10 @@ Publications
 
 .. _Uieda, L.: ../uieda
 
-* Oliveira Jr., V. C., V. C. F. Barbosa, and J. B. C. Silva, 2011, 
+* Oliveira Jr., V. C., V. C. F. Barbosa, and J. B. C. Silva. (2011). 
   Source geometry estimation using the mass excess criterion to constrain 3-D 
   radial inversion of gravity data: Geophysical Journal International, 187 (2),
   754-772. doi:10.1111/j.1365-246X.2011.05172.x 
-  [`abstract <http://onlinelibrary.wiley.com/doi/10.1111/j.1365-246X.2011.05172.x/full>`__]
   [`electronic pdf version </papers/OliveiraJr,Barbosa,Silva_2011.pdf>`__]
   [`definitive version <http://onlinelibrary.wiley.com/doi/10.1111/j.1365-246X.2011.05172.x/full>`__]
 
@@ -49,11 +48,11 @@ Publications
   [`electronic pdf version </papers/OliveiraJr.,Barbosa,Uieda_2012.pdf>`__]
   [`definitive version <http://dx.doi.org/10.1190/geo2012-0196.1>`__]
   
-* Oliveira Jr., V. C. and V. C. F. Barbosa, 2013, 3-D radial gravity gradient inversion: 
+* Oliveira Jr., V. C. and V. C. F. Barbosa. (2013). 3-D radial gravity gradient inversion: 
   Geophysical Journal International, 3, 30p. doi: 10.1093/gji/ggt307
-  [`abstract <http://gji.oxfordjournals.org/content/early/2013/09/03/gji.ggt307.abstract?keytype=ref&ijkey=AzI3745gsPwWGOp>`__]
+  [`definitive version <http://gji.oxfordjournals.org/content/early/2013/09/03/gji.ggt307.abstract?keytype=ref&ijkey=AzI3745gsPwWGOp>`__]
 
-* Melo, F. F., Barbosa, V. C. F., Uieda, L., Oliveira Jr., V. C., and Silva, J. B. C.`_ (2013). 
+* Melo, F. F., Barbosa, V. C. F., `Uieda, L.`_, Oliveira Jr., V. C., and Silva, J. B. C. (2013). 
   Estimating the nature and the horizontal and vertical positions of 3D magnetic sources using Euler deconvolution.
   *GEOPHYSICS*, 78(6), J87-J98. doi: 10.1190/geo2012-0515.1
   [electronic pdf version coming soon]
