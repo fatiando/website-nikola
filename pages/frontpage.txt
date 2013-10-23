@@ -67,6 +67,18 @@ Documentation for Fatiando is hosted on
 
 .. raw:: html
 
+    <h2>Installing</h2>
+
+Just follow the
+`installation instructions
+<http://fatiando.readthedocs.org/en/releases/install.html>`_
+in the documentation.
+If you have any problems,
+`get in touch <contact>`_
+and we'll do our best to help!
+
+.. raw:: html
+
     <h2>Citing</h2>
 
 Many of us are scientists too,
