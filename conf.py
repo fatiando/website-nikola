@@ -50,7 +50,7 @@ TRANSLATIONS = {
 SIDEBAR_LINKS = {
     DEFAULT_LANG: (
         ('/blog', 'Blog'),
-        ('http://fatiando.readthedocs.org', 'Docs'),
+        ('http://fatiando.readthedocs.org/en/releases/', 'Docs'),
         ('/projects', 'Projects'),
         ('/people', 'People'),
         ('/contact', 'Contact'),

@@ -58,8 +58,10 @@ of the presentation and proceedings in
 Documentation for Fatiando is hosted on
 `ReadTheDocs <https://readthedocs.org/>`_:
 
+* `Current development version (0.3)
+  <http://fatiando.readthedocs.org/en/latest/>`_
+* `Version 0.2 <http://fatiando.readthedocs.org/en/v0.2/>`_
 * `Version 0.1 <http://fatiando.readthedocs.org/en/v0.1-0/>`_
-* `Current development version (0.2) <http://fatiando.readthedocs.org/en/latest>`_
 
 .. raw:: html
 
@@ -111,12 +113,20 @@ They're the latest trend!
 
 *Fatiando a Terra* is under development at
 `GitHub <https://github.com/leouieda/fatiando>`_!
-There are named branches for each release
+All development happens on named (or feature) branches.
+The latest stable release is in the
+`releases <https://github.com/leouieda/fatiando/tree/releases>`__ branch.
+There are tags for each release
 that is on `PyPI <https://pypi.python.org/pypi/fatiando>`_
 (e.g., `v0.1 <https://github.com/leouieda/fatiando/tree/v0.1>`_).
+
 If you want the bleeding edge,
 have a look at the
 `master <https://github.com/leouieda/fatiando/tree/master>`_ branch.
+We try very hard to keep *master* stable and usable.
+See the `install guide
+<http://fatiando.readthedocs.org/en/releases/install.html#installing-the-latest-development-version>`__
+for information on how to get the latest code from GitHub.
 
 .. raw:: html
 
