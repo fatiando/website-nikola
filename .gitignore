@@ -1,7 +1,13 @@
 *.py[cod]
 
+# IPython stuff
+.ipynb_checkpoints/
+
 # Nikola stuff
 .doit.db
+.doit.db.bak
+.doit.db.dat
+.doit.db.dir
 cache
 output
 
