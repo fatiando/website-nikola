@@ -5,10 +5,6 @@
 .. link:
 .. description:
 
-.. raw:: html
-
-    <h1><img src="site-header-logo.png" alt="Fatiando a Terra"></h1>
-
 Fatiando a Terra (Portuguese for *Slicing the Earth*)
 is an open-source `Python <http://www.python.org>`_ toolkit
 for **geophysical modeling and inversion**.
@@ -41,7 +37,7 @@ has examples of what Fatiando can already do.
 
 .. raw:: html
 
-    <h2>News</h2>
+    <h1>News</h1>
 
 Fatiando a Terra was presented at
 `SciPy 2013 <http://conference.scipy.org/scipy2013/index.php>`_!
@@ -57,7 +53,7 @@ of the presentation and proceedings in
 
 .. raw:: html
 
-    <h2>Documentation</h2>
+    <h1>Documentation</h1>
 
 Documentation for Fatiando is hosted on
 `ReadTheDocs <https://readthedocs.org/>`_:
@@ -67,7 +63,7 @@ Documentation for Fatiando is hosted on
 
 .. raw:: html
 
-    <h2>Installing</h2>
+    <h1>Installing</h1>
 
 Just follow the
 `installation instructions
@@ -79,7 +75,7 @@ and we'll do our best to help!
 
 .. raw:: html
 
-    <h2>Citing</h2>
+    <h1>Citing</h1>
 
 Many of us are scientists too,
 so citations help justify the effort
@@ -111,7 +107,7 @@ They're the latest trend!
 
 .. raw:: html
 
-    <h2>Development</h2>
+    <h1>Development</h1>
 
 *Fatiando a Terra* is under development at
 `GitHub <https://github.com/leouieda/fatiando>`_!
@@ -124,7 +120,7 @@ have a look at the
 
 .. raw:: html
 
-    <h2>Getting help and contributing</h2>
+    <h1>Getting help and contributing</h1>
 
 If you need any help or want to contribute,
 `get in touch <contact>`_!
