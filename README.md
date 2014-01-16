@@ -13,7 +13,8 @@ Questions and comments, contact
 
 ## Requirements
 
-You'll need to install Nikola version 5.4.4 and all its dependencies.
+You'll need to install Nikola version 5.5.1 and all its dependencies.
+It is usually easier to install the dependencies separately.
 
 ## Building the site
 
