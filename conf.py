@@ -57,8 +57,8 @@ SIDEBAR_LINKS = {
         # Icons
         ('https://github.com/leouieda/fatiando',
          '<img src="/logo/github.png" title="Source code on GitHub">'),
-        ('https://plus.google.com/109453117826543450682',
-         '<img src="/logo/gplus.png" title="Our Google+ page">'),
+        ('https://plus.google.com/+FatiandoOrg',
+         '<img src="/logo/gplus.png" title="Google+" alt="Google+">'),
         ('/rss.xml',
          '<img src="/logo/rss.png" title="RSS feed">'),
     ),
