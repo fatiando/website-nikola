@@ -6,7 +6,10 @@
 ${helper.twitter_card_information(post)}
 </%block>
 <%block name="content">
-    <img src="site-header-logo.png" alt="Fatiando a Terra">
-    ${helper.html_title()}
+    <h1>
+        <img src="site-header-logo.png"
+         alt="Fatiando a Terra: Geophysical modeling and inversion">
+    </h1>
+    <h2>${title}</h2>
     ${post.text()}
 </%block>

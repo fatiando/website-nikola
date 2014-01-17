@@ -96,9 +96,11 @@ post_pages = (
     ("posts/*.txt", "blog", "post.tmpl", True),
     ("posts/*.md", "blog", "post.tmpl", True),
     ("posts/*.html", "blog", "post.tmpl", True),
+    ("pages/*.md", ".",  "story.tmpl", False),
     ("pages/*.txt", ".",  "story.tmpl", False),
     ("pages/*.html", ".",  "story.tmpl", False),
     ("pages/frontpage.txt", ".",  "frontpage.tmpl", False),
+    ("pages/frontpage.md", ".",  "frontpage.tmpl", False),
 )
 
 # One or more folders containing files to be copied as-is into the output.
