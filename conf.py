@@ -101,6 +101,7 @@ post_pages = (
     ("pages/*.html", ".",  "story.tmpl", False),
     ("pages/frontpage.txt", ".",  "frontpage.tmpl", False),
     ("pages/frontpage.md", ".",  "frontpage.tmpl", False),
+    ("pages/people/uieda/index.txt", "people/uieda",  "uieda-redirect.tmpl", False),
 )
 
 # One or more folders containing files to be copied as-is into the output.
