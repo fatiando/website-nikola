@@ -149,6 +149,23 @@ O que é Geofísica? (2011), in 12th International Congress of the Brazilian Geo
 .. _Departamento de Geofísica: http://www.iag.usp.br/geofisica/
 
 
+-- Technical Production --
+--------------------------
+
+Coimbra, T. A., **H. B. Santos**, J. Schleicher, and A. Novais (2013),
+Prestack migration velocity analysis using time-remigration trajectories,
+in `17th Annual Wave Inversion Technology Meeting (WIT)`_, p. 66-79, `Institute of Geophysics, University of Hamburg`_, Germany.
+Oral presentation: February 18, 2014.
+
+**Santos, H. B.**, J. Schleicher, and A. Novais (2013), 
+Initial-model Construction for MVA Techniques, 
+in `17th Annual Wave Inversion Technology Meeting (WIT)`_, p. 124-135, `Institute of Geophysics, University of Hamburg`_, Germany.
+Poster presentation: February 17-18, 2014.
+
+.. _17th Annual Wave Inversion Technology Meeting (WIT): http://wit.zmaw.de/
+.. _Institute of Geophysics, University of Hamburg: https://www.geophysics.zmaw.de/
+
+
 Courses and Workshops
 =====================
 
