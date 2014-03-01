@@ -127,7 +127,7 @@ Tensor Gradiente Gravimétrico da Bacia do Paraná, in IV Simpósio Brasileiro d
 
 **Santos, H. B.**, D. L. Macedo, E. B. Santos, J. Schleicher and A. Novais (2013), Construction of an initial velocity model for migration velocity analysis from gravimetric inversion, Abstract S41D-06, in AGU Meeting of the Americas, San Francisco, US.
 
-Santos, E. B., **H. B. Santos**, I. Vitorello and M. B. Padua, 2-D magnetotelluric inversion of the central part of Paraná Basin, Abstract GP51C-1102, in AGU Meeting of the Americas, San Francisco, US.
+Santos, E. B., **H. B. Santos**, I. Vitorello and M. B. Padua (2013), 2-D magnetotelluric inversion of the central part of Paraná Basin, Abstract GP51C-1102, in AGU Meeting of the Americas, San Francisco, US.
 
 **Santos, H. B.**, E. Yokoyama, E. B. Santos, E. P. Leite, and J. C. Ferreira (2013), 3D Forward Gravity Modeling of Vargeão Impact Structure: Preliminary Results, in EGU General Assembly 2013, Abstract EGU2013-7440, vol. 15, p. 1, Vienna, Austria.
 [`abstract <http://adsabs.harvard.edu/abs/2013EGUGA..15.7440S>`__] 
