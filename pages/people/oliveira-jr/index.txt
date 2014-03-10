@@ -11,6 +11,7 @@ Researcher at the department of Geophysics of `Observatório Nacional`_, Brazil
 * `Google Scholar <http://scholar.google.com.br/citations?user=TQbQ4TcAAAAJ>`_
 * `Plataforma Lattes <http://lattes.cnpq.br/4332841435949533>`_
 * `ResearcherID <http://www.researcherid.com/rid/E-1871-2013>`_
+* `ResearchGate <https://www.researchgate.net/researcher/2021325258_Vanderlei_C_Oliveira_Jr/>`_
 
 Research
 ========
@@ -58,4 +59,5 @@ Publications
   Estimating the nature and the horizontal and vertical positions of 3D magnetic sources using Euler deconvolution.
   *GEOPHYSICS*, 78(6), J87-J98. doi: 10.1190/geo2012-0515.1
   [`electronic pdf version </papers/Melo,etal._2013.pdf>`__]
+  [`suplementary material <http://dx.doi.org/10.6084/m9.figshare.649433>`__]
   [`definitive version <http://dx.doi.org/10.1190/geo2012-0515.1>`__]
