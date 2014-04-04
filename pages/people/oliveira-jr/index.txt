@@ -36,6 +36,8 @@ Publications
 
 .. _Uieda, L.: ../uieda
 
+https://github.com/pinga-lab/paper-tle-euler-tutorial.git
+
 * Oliveira Jr., V. C., V. C. F. Barbosa, and J. B. C. Silva. (2011). 
   Source geometry estimation using the mass excess criterion to constrain 3-D 
   radial inversion of gravity data: Geophysical Journal International, 187 (2),
@@ -55,9 +57,15 @@ Publications
   [`suplementary material </papers/OliveiraJr.,Barbosa_2013_suplemantary_material.pdf>`__]
   [`definitive version <http://gji.oxfordjournals.org/content/early/2013/09/03/gji.ggt307.abstract?keytype=ref&ijkey=AzI3745gsPwWGOp>`__]
 
-* Melo, F. F., Barbosa, V. C. F., `Uieda, L.`_, Oliveira Jr., V. C., and Silva, J. B. C. (2013). 
+* Melo, F. F., Barbosa, V. C. F., `Uieda, L.`_, Oliveira Jr., V. C., and J. B. C. Silva (2013). 
   Estimating the nature and the horizontal and vertical positions of 3D magnetic sources using Euler deconvolution.
   *GEOPHYSICS*, 78(6), J87-J98. doi: 10.1190/geo2012-0515.1
   [`electronic pdf version </papers/Melo,etal._2013.pdf>`__]
   [`suplementary material <http://dx.doi.org/10.6084/m9.figshare.649433>`__]
   [`definitive version <http://dx.doi.org/10.1190/geo2012-0515.1>`__]
+  
+* `Uieda, L.`_, Oliveira Jr., V. C. and V. C. F. Barbosa (2014). 
+  Geophysical tutorial: Euler deconvolution of potential-field data. *The Leading Edge*, 33(4), 448-450. 
+  doi: 10.1190/tle33040448.1 
+  [`electronic version <https://github.com/pinga-lab/paper-tle-euler-tutorial.git>`__]
+  [`definitive version <http://dx.doi.org/10.1190/tle33040448.1>`__]
